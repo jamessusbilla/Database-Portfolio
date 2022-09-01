@@ -1,0 +1,671 @@
+auction ID,lot,Buyer,Seller,Agent,Auctioneer,Breed,Quantity,Selling Price,Seller Auction ID,Buyer Auction ID,PassedIn,Buyer Auction Date,Seller Auction Date,Buyer Auction Time,Seller Auction Time
+C1619,26,Meghan Dalton,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,16,37536.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,77,Meghan Dalton,Burch Farms,Jane Jetson,Jane Jetson,Charolais,13,34032.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,102,Meghan Dalton,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,4,7329.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,145,Meghan Dalton,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,9,17701.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,164,Meghan Dalton,Juliet Hayes,Homer Palin,Ralph Wigwam,Hereford,16,41142.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,189,Meghan Dalton,Macdonald Farms,Donald Quagley,Donald Quagley,Fresian X,2,6651.18,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,218,Meghan Dalton,Cecilia Trading,Michael Krueger,Donald Quagley,Fresian,10,25367.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,222,Meghan Dalton,Cecilia Trading,Michael Krueger,Donald Quagley,Angus,8,24498.24,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,235,Meghan Dalton,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,2,4925.46,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,249,Meghan Dalton,Ayala Farms,David Sidebottom,Donald Quagley,Fresian X,13,22094.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,259,Meghan Dalton,Hardin Farms,Homer Palin,Ralph Wigwam,Fresian,15,25845.30,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,9,Valenzuela Farms,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus,12,22212.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,17,Valenzuela Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Charolais,6,11186.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,87,Valenzuela Farms,Carr Farms,Homer Palin,Micheal Angel,Charolais,20,45273.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,95,Valenzuela Farms,Adena Rich,Dave Doppler,Dave Doppler,Angus,8,23114.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,111,Valenzuela Farms,Daniel Farms,Donald Quagley,Donald Quagley,Angus,12,22069.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,140,Valenzuela Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,8,18012.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,173,Valenzuela Farms,Carr Farms,Homer Palin,Micheal Angel,Angus X,11,31788.90,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,176,Valenzuela Farms,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,11,18399.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,195,Valenzuela Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Angus,13,24954.93,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,199,Valenzuela Farms,Burch Farms,Jane Jetson,Jane Jetson,Fresian X,9,14774.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,210,Valenzuela Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Angus,19,53735.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,220,Valenzuela Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,4,11178.24,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,242,Valenzuela Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus,9,17562.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,243,Valenzuela Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Angus X,8,26216.32,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,24,Melissa Ruiz,Cecilia Trading,Michael Krueger,Donald Quagley,Hereford,14,25368.42,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,61,Melissa Ruiz,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,8,15992.64,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,64,Melissa Ruiz,Germane Blackburn,Leonardo Capris,Micheal Angel,Hereford,5,13113.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,68,Melissa Ruiz,Gannon Trading,Jane Jetson,Jane Jetson,Fresian,3,9498.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,88,Melissa Ruiz,Kylynn Trading,Michael Krueger,Donald Quagley,Fresian,7,22408.75,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,110,Melissa Ruiz,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,20,34537.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,126,Melissa Ruiz,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,1,3371.69,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,177,Melissa Ruiz,Hasad Harrington,Alister Byng,Alister Byng,Charolais,8,11827.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,7,Roary Gillespie,Carr Farms,Homer Palin,Micheal Angel,Fresian,18,42019.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,40,Roary Gillespie,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,5,14780.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,80,Roary Gillespie,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,15,39804.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,98,Roary Gillespie,Juliet Hayes,Homer Palin,Ralph Wigwam,Fresian,11,22002.42,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,121,Roary Gillespie,Hanna Collier,Micheal Angel,Micheal Angel,Angus,3,5839.14,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,125,Roary Gillespie,Hermione Compton,Jane Jetson,Jane Jetson,Angus,16,44252.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,160,Roary Gillespie,Rosales Farms,Michael Krueger,Micheal Angel,Angus,17,48459.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,208,Roary Gillespie,Bright Farms,Donald Quagley,Donald Quagley,Fresian,12,30093.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,246,Roary Gillespie,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus X,5,9847.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,254,Roary Gillespie,Hanna Collier,Micheal Angel,Micheal Angel,Angus X,20,51410.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,1,Marshall Leach,Gannon Trading,Jane Jetson,Jane Jetson,Angus,14,45400.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,2,Marshall Leach,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,2,5424.02,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,25,Marshall Leach,Burch Farms,Jane Jetson,Jane Jetson,Angus,8,23454.72,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,41,Marshall Leach,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,20,40854.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,63,Marshall Leach,Hanna Collier,Micheal Angel,Micheal Angel,Angus X,12,30149.76,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,101,Marshall Leach,Kylynn Trading,Michael Krueger,Donald Quagley,Angus,2,4876.02,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,129,Marshall Leach,Rosales Farms,Michael Krueger,Micheal Angel,Fresian X,3,8613.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,149,Marshall Leach,Daniel Farms,Donald Quagley,Donald Quagley,Fresian X,2,5863.36,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,161,Marshall Leach,Lee Chase,Dave Doppler,Dave Doppler,Angus,4,11643.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,170,Marshall Leach,Kylynn Trading,Michael Krueger,Donald Quagley,Angus,2,3300.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,198,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian,3,5528.25,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,215,Marshall Leach,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus,10,27518.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,229,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian X,10,23295.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,231,Marshall Leach,Hanna Collier,Micheal Angel,Micheal Angel,Angus,9,15674.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,245,Marshall Leach,Daniel Farms,Donald Quagley,Donald Quagley,Angus,15,26814.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,258,Marshall Leach,Illiana Maldonado,Dave Doppler,Dave Doppler,Charolais,8,19323.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,16,Lee Chase,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus X,14,35483.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,32,Lee Chase,Adena Rich,Dave Doppler,Dave Doppler,Angus,17,43770.24,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,94,Lee Chase,Germane Blackburn,Leonardo Capris,Micheal Angel,Hereford,8,15896.64,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,97,Lee Chase,Camden Hatfield,Lisa Andrewson,Jane Jetson,Charolais,15,37519.95,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,131,Lee Chase,Lee Chase,Dave Doppler,Dave Doppler,Angus,3,4553.88,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,184,Lee Chase,Cecilia Trading,Michael Krueger,Micheal Angel,Hereford,19,33908.16,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,216,Lee Chase,Hardin Farms,Homer Palin,Ralph Wigwam,Angus X,7,18707.22,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,227,Lee Chase,Hermione Compton,Jane Jetson,Jane Jetson,Charolais,4,8049.08,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,233,Lee Chase,Bright Farms,Donald Quagley,Donald Quagley,Angus X,7,17403.82,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,18,Illiana Maldonado,Carr Farms,Homer Palin,Ralph Wigwam,Fresian,14,49158.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,27,Illiana Maldonado,Germane Blackburn,Leonardo Capris,Micheal Angel,Charolais,6,11640.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,35,Illiana Maldonado,Adena Rich,Dave Doppler,Dave Doppler,Angus,6,13476.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,36,Illiana Maldonado,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,19,72086.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,42,Illiana Maldonado,Daniel Farms,Donald Quagley,Donald Quagley,Angus,6,12835.92,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,76,Illiana Maldonado,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,18,37260.18,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,108,Illiana Maldonado,Barrett Fuller,Leonardo Capris,Donald Quagley,Fresian,4,10412.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,165,Illiana Maldonado,Burch Farms,Jane Jetson,Jane Jetson,Angus,12,40731.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,167,Illiana Maldonado,Aiko Swanson,Micheal Angel,Micheal Angel,Charolais,15,23396.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,181,Illiana Maldonado,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,13,30849.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,224,Illiana Maldonado,Kirk Cameron,Lisa Andrewson,Jane Jetson,Hereford,5,15259.75,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,3,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Hereford,6,15859.62,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,23,Rosales Farms,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus X,4,9707.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,28,Rosales Farms,Adena Rich,Dave Doppler,Dave Doppler,Fresian,5,11812.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,29,Rosales Farms,Adena Rich,Dave Doppler,Dave Doppler,Fresian X,9,26010.81,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,46,Rosales Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,14,35093.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,57,Rosales Farms,Dillard Farms,Dave Doppler,Dave Doppler,Charolais,4,6381.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,62,Rosales Farms,Hanna Collier,Micheal Angel,Micheal Angel,Angus,20,30466.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,72,Rosales Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus,5,16347.75,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,93,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,10,17723.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,113,Rosales Farms,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus X,16,36021.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,117,Rosales Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Charolais,8,15689.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,127,Rosales Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Charolais,5,13140.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,143,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus X,20,31613.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,144,Rosales Farms,Carr Farms,Homer Palin,Ralph Wigwam,Hereford,3,7541.10,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,147,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Charolais,9,25099.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,150,Rosales Farms,Ayala Farms,David Sidebottom,Donald Quagley,Angus,20,53312.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,152,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,13,26819.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,162,Rosales Farms,Barclay Barr,David Sidebottom,Micheal Angel,Angus,12,23389.08,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,168,Rosales Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian,10,30508.10,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,190,Rosales Farms,Dillard Farms,Dave Doppler,Dave Doppler,Angus,17,39494.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,191,Rosales Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,13,42137.55,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,192,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Angus,16,24294.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,196,Rosales Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,9,30228.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,202,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Angus,4,8052.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,206,Rosales Farms,Barrett Fuller,Leonardo Capris,Micheal Angel,Angus X,7,14680.05,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,207,Rosales Farms,Gannon Trading,Jane Jetson,Jane Jetson,Charolais,4,8388.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,237,Rosales Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Charolais,1,2634.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,256,Rosales Farms,Hermione Compton,Jane Jetson,Jane Jetson,Angus,5,13847.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,257,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Angus X,8,24233.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,264,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Beef X,8,17923.84,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,12,Camden Hatfield,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,5,12906.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,13,Camden Hatfield,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,7,14403.97,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,31,Camden Hatfield,Adena Rich,Dave Doppler,Dave Doppler,Angus,9,21037.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,49,Camden Hatfield,Barclay Barr,David Sidebottom,Micheal Angel,Fresian X,6,11284.44,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,50,Camden Hatfield,Hardin Farms,Homer Palin,Ralph Wigwam,Angus,2,5124.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,56,Camden Hatfield,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus X,1,1499.90,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,60,Camden Hatfield,Hasad Harrington,Alister Byng,Alister Byng,Angus,3,5816.16,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,112,Camden Hatfield,Barclay Barr,David Sidebottom,Micheal Angel,Angus,9,21440.25,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,122,Camden Hatfield,Gannon Trading,Jane Jetson,Jane Jetson,Angus,16,43428.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,135,Camden Hatfield,Adena Rich,Dave Doppler,Dave Doppler,Angus,15,21708.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,154,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,3,7049.25,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,180,Camden Hatfield,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,6,17755.92,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,232,Camden Hatfield,Ayala Farms,David Sidebottom,Donald Quagley,Angus,17,45835.23,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,251,Camden Hatfield,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,3,9195.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,34,Nola Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Hereford,12,19088.16,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,52,Nola Trading,Daniel Farms,Donald Quagley,Donald Quagley,Angus,11,25428.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,70,Nola Trading,Ayala Farms,David Sidebottom,Donald Quagley,Angus,9,21146.13,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,73,Nola Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,10,23790.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,85,Nola Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,5,11650.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,89,Nola Trading,Hardin Farms,Homer Palin,Ralph Wigwam,Fresian X,2,6663.68,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,124,Nola Trading,Hermione Compton,Jane Jetson,Jane Jetson,Hereford,4,7215.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,133,Nola Trading,Hanna Collier,Micheal Angel,Micheal Angel,Angus X,7,15927.24,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,141,Nola Trading,Hermione Compton,Jane Jetson,Jane Jetson,Angus,5,13888.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,188,Nola Trading,Adena Rich,Dave Doppler,Dave Doppler,Fresian,3,10111.95,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,197,Nola Trading,Barrett Fuller,Leonardo Capris,Donald Quagley,Charolais,15,32234.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,211,Nola Trading,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus,17,32663.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,234,Nola Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Hereford,6,10974.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,65,Vernon Mcgee,Lee Chase,Dave Doppler,Dave Doppler,Angus,16,53328.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,71,Vernon Mcgee,Aiko Swanson,Micheal Angel,Micheal Angel,Angus,4,5991.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,83,Vernon Mcgee,Carr Farms,Homer Palin,Micheal Angel,Angus X,3,9356.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,104,Vernon Mcgee,Ayala Farms,David Sidebottom,Donald Quagley,Hereford,2,3969.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,166,Vernon Mcgee,Bright Farms,Donald Quagley,Donald Quagley,Angus X,10,19962.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,223,Vernon Mcgee,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,4,5628.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,225,Vernon Mcgee,Aiko Swanson,Micheal Angel,Micheal Angel,Angus,7,17518.62,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,247,Vernon Mcgee,Hermione Compton,Jane Jetson,Jane Jetson,Charolais,7,14764.75,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,4,Bianca Foster,Burch Farms,Jane Jetson,Jane Jetson,Angus,17,53978.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,6,Bianca Foster,Juliet Hayes,Homer Palin,Ralph Wigwam,Charolais,11,26220.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,8,Bianca Foster,Grady Blevins,Bart O'Keefe,Jane Jetson,Fresian X,3,6004.92,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,10,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Angus,2,4613.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,14,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,12,41927.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,53,Bianca Foster,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,5,9884.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,66,Bianca Foster,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,8,24241.92,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,78,Bianca Foster,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian,7,13899.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,82,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Angus,12,25645.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,84,Bianca Foster,Burch Farms,Jane Jetson,Jane Jetson,Hereford,9,13342.32,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,86,Bianca Foster,Barclay Barr,David Sidebottom,Micheal Angel,Angus X,14,28337.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,119,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian X,4,7711.84,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,123,Bianca Foster,Adena Rich,Dave Doppler,Dave Doppler,Angus X,2,3592.44,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,151,Bianca Foster,Hermione Compton,Jane Jetson,Jane Jetson,Angus,20,35965.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,163,Bianca Foster,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,4,11662.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,200,Bianca Foster,Adena Rich,Dave Doppler,Dave Doppler,Angus,9,18265.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,226,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus X,9,26400.78,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,238,Bianca Foster,Dillard Farms,Dave Doppler,Dave Doppler,Fresian,10,20036.10,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,30,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Angus,3,8754.84,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,38,Jocelyn Dickson,Rosales Farms,Michael Krueger,Micheal Angel,Fresian,8,13759.92,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,79,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian X,1,1662.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,106,Jocelyn Dickson,Lee Chase,Dave Doppler,Dave Doppler,Angus X,8,12143.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,107,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Charolais,15,27153.90,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,114,Jocelyn Dickson,Gannon Trading,Jane Jetson,Jane Jetson,Hereford,19,31744.82,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,128,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Fresian,3,6829.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,132,Jocelyn Dickson,Ayala Farms,David Sidebottom,Donald Quagley,Angus,4,7699.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,136,Jocelyn Dickson,Hanna Collier,Micheal Angel,Micheal Angel,Angus X,10,22671.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,138,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian,2,6996.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,142,Jocelyn Dickson,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus,6,13398.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,158,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian,5,13423.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,171,Jocelyn Dickson,Dillard Farms,Dave Doppler,Dave Doppler,Angus,4,11075.52,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,172,Jocelyn Dickson,Bright Farms,Donald Quagley,Donald Quagley,Angus,2,3977.72,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,221,Jocelyn Dickson,Hermione Compton,Jane Jetson,Jane Jetson,Angus,20,43667.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,239,Jocelyn Dickson,Barclay Barr,David Sidebottom,Micheal Angel,Fresian X,7,10393.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,252,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Beef X,4,9774.08,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,262,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,10,32410.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,265,Jocelyn Dickson,Bright Farms,Donald Quagley,Donald Quagley,Beef X,5,12602.65,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,75,Marks Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,14,38766.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,91,Marks Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,9,19223.73,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,103,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,3,8339.46,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,137,Marks Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Charolais,18,34863.66,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,157,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Charolais,15,42909.30,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,209,Marks Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Fresian X,5,13380.90,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,217,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Charolais,3,7122.15,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,219,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Fresian X,7,19312.09,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,236,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Angus X,14,36532.16,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,248,Marks Farms,Burch Farms,Jane Jetson,Jane Jetson,Fresian,4,11248.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,11,Bright Farms,Rosales Farms,Michael Krueger,Micheal Angel,Beef X,17,43319.91,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,44,Bright Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Hereford,20,65766.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,92,Bright Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,2,6400.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,96,Bright Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,14,36706.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,115,Bright Farms,Barclay Barr,David Sidebottom,Micheal Angel,Angus,20,46136.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,116,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,19,54482.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,156,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,15,48308.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,169,Bright Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian X,4,14637.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,183,Bright Farms,Adena Rich,Dave Doppler,Dave Doppler,Angus X,3,8724.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,263,Bright Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Beef X,2,5239.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,33,Autumn Mooney,Hanna Collier,Micheal Angel,Micheal Angel,Angus X,15,25770.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,55,Autumn Mooney,Carr Farms,Homer Palin,Ralph Wigwam,Angus,2,5121.06,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,74,Autumn Mooney,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Hereford,4,9041.28,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,105,Autumn Mooney,Ayala Farms,David Sidebottom,Donald Quagley,Angus,9,19117.35,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,159,Autumn Mooney,Dillard Farms,Dave Doppler,Dave Doppler,Fresian X,7,18688.46,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,174,Autumn Mooney,Carr Farms,Homer Palin,Micheal Angel,Hereford,18,26618.76,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,179,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian X,1,2478.09,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,203,Autumn Mooney,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus X,9,24582.69,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,205,Autumn Mooney,Burch Farms,Jane Jetson,Jane Jetson,Angus,7,11558.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,214,Autumn Mooney,Hasad Harrington,Alister Byng,Alister Byng,Hereford,19,46147.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,250,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,9,15480.18,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,260,Autumn Mooney,Rosales Farms,Michael Krueger,Micheal Angel,Fresian X,10,24483.40,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,15,Macdonald Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,8,14322.88,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,67,Macdonald Farms,Barclay Barr,David Sidebottom,Micheal Angel,Charolais,5,17244.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,81,Macdonald Farms,Rosales Farms,Michael Krueger,Micheal Angel,Angus,7,19250.84,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,118,Macdonald Farms,Bright Farms,Donald Quagley,Donald Quagley,Fresian,12,33232.32,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,130,Macdonald Farms,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus,1,2768.42,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,139,Macdonald Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Fresian X,9,18664.65,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,146,Macdonald Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus X,7,16516.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,186,Macdonald Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,10,27783.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,201,Macdonald Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Angus,15,36630.00,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,240,Macdonald Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,17,54143.47,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,253,Macdonald Farms,Lee Chase,Dave Doppler,Dave Doppler,Angus,4,7772.88,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,255,Macdonald Farms,Gannon Trading,Jane Jetson,Jane Jetson,Hereford,16,37807.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,5,Dillard Farms,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,8,16696.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,19,Dillard Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Fresian X,11,26096.07,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,21,Dillard Farms,Bright Farms,Donald Quagley,Donald Quagley,Angus,18,50705.10,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,51,Dillard Farms,Daniel Farms,Donald Quagley,Donald Quagley,Angus,9,25981.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,134,Dillard Farms,Carr Farms,Homer Palin,Micheal Angel,Hereford,2,3432.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,175,Dillard Farms,Barrett Fuller,Leonardo Capris,Donald Quagley,Angus,13,24134.24,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,178,Dillard Farms,Hanna Collier,Micheal Angel,Micheal Angel,Fresian,18,41809.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,187,Dillard Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Charolais,2,5799.60,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,213,Dillard Farms,Grady Blevins,Bart O'Keefe,Jane Jetson,Angus X,9,25911.72,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,241,Dillard Farms,Lee Chase,Dave Doppler,Dave Doppler,Angus,8,20421.36,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,244,Dillard Farms,Lee Chase,Dave Doppler,Dave Doppler,Hereford,7,17757.74,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,20,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,7,17572.38,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,37,Anastasia Trading,Grady Blevins,Bart O'Keefe,Jane Jetson,Charolais,4,8211.84,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,43,Anastasia Trading,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,2,5554.30,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,54,Anastasia Trading,Dillard Farms,Dave Doppler,Dave Doppler,Hereford,9,23504.31,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,69,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian X,9,13291.20,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,90,Anastasia Trading,Burch Farms,Jane Jetson,Jane Jetson,Angus,11,26243.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,148,Anastasia Trading,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian,5,14349.80,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,153,Anastasia Trading,Barclay Barr,David Sidebottom,Micheal Angel,Angus X,1,2012.48,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,185,Anastasia Trading,Carr Farms,Homer Palin,Micheal Angel,Angus,4,9873.04,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,193,Anastasia Trading,Hasad Harrington,Alister Byng,Alister Byng,Angus X,7,23233.98,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,194,Anastasia Trading,Bright Farms,Donald Quagley,Donald Quagley,Hereford,5,15139.25,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,204,Anastasia Trading,Hanna Collier,Micheal Angel,Micheal Angel,Hereford,2,3003.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,212,Anastasia Trading,Carr Farms,Homer Palin,Ralph Wigwam,Angus,2,5556.96,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,230,Anastasia Trading,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Angus,4,9010.72,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,22,Ina Trading,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,19,56839.07,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,45,Ina Trading,Juliet Hayes,Homer Palin,Micheal Angel,Angus,7,11826.50,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,59,Ina Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian X,14,37013.76,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,99,Ina Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian X,13,25234.56,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,155,Ina Trading,Macdonald Farms,Donald Quagley,Donald Quagley,Angus,13,35212.32,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,228,Ina Trading,Carr Farms,Homer Palin,Ralph Wigwam,Fresian,4,10559.64,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1619,261,Ina Trading,Hermione Compton,Jane Jetson,Jane Jetson,Angus,8,21269.12,1619,1619,"N,2020-08-03,2020-08-03,11:00:00,11:00:00
+C1620,263,Kirk Cameron,Kylynn Trading,Donald Quagley,Donald Quagley,Angus X,17,4675.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,5,Meghan Dalton,Dillard Farms,Dave Doppler,Dave Doppler,Charolais,7,11597.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,13,Meghan Dalton,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,10,20137.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,46,Meghan Dalton,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,9,17220.06,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,49,Meghan Dalton,Everett Farms,David Sidebottom,Micheal Angel,Angus,19,32315.77,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,86,Meghan Dalton,Everett Farms,David Sidebottom,Micheal Angel,Angus X,17,43010.34,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,106,Meghan Dalton,Lee Chase,Dave Doppler,Dave Doppler,Angus X,9,18210.15,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,140,Meghan Dalton,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,7,15398.46,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,170,Meghan Dalton,Kylynn Trading,Michael Krueger,Donald Quagley,Charolais,5,11750.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,3,Valenzuela Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus,8,14515.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,27,Valenzuela Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian X,3,7729.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,43,Valenzuela Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,1,1568.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,44,Valenzuela Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Charolais,17,37696.82,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,56,Valenzuela Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Fresian X,16,32073.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,107,Valenzuela Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,20,54073.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,126,Valenzuela Farms,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,5,16169.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,127,Valenzuela Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Angus X,8,24015.36,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,153,Valenzuela Farms,Everett Farms,David Sidebottom,Micheal Angel,Angus,4,13904.16,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,167,Valenzuela Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Angus X,4,11619.84,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,173,Valenzuela Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,3,6961.32,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,230,Valenzuela Farms,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,18,62185.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,66,Melissa Ruiz,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus,5,14688.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,90,Melissa Ruiz,Burch Farms,Jane Jetson,Jane Jetson,Fresian,13,36042.24,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,125,Melissa Ruiz,Hermione Compton,Jane Jetson,Jane Jetson,Angus,3,6618.96,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,133,Melissa Ruiz,Samson Pollard,Micheal Angel,Micheal Angel,Fresian X,2,5627.76,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,146,Melissa Ruiz,Bianca Foster,Bart O'Keefe,Jane Jetson,Fresian X,1,2302.65,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,172,Melissa Ruiz,Bright Farms,Donald Quagley,Donald Quagley,Fresian,2,6003.34,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,200,Melissa Ruiz,Adena Rich,Dave Doppler,Dave Doppler,Fresian,9,26154.81,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,206,Melissa Ruiz,Barclay Barr,Leonardo Capris,Micheal Angel,Angus,4,8675.64,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,7,Roary Gillespie,Carr Farms,Homer Palin,Micheal Angel,Angus,17,40287.45,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,18,Roary Gillespie,Carr Farms,Homer Palin,Ralph Wigwam,Angus,3,6054.75,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,54,Roary Gillespie,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,16,24294.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,113,Roary Gillespie,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,8,15850.96,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,134,Roary Gillespie,Carr Farms,Homer Palin,Micheal Angel,Charolais,10,19763.70,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,188,Roary Gillespie,Adena Rich,Dave Doppler,Dave Doppler,Angus,13,23963.94,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,212,Roary Gillespie,Carr Farms,Homer Palin,Ralph Wigwam,Angus X,20,54079.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,4,Marshall Leach,Burch Farms,Jane Jetson,Jane Jetson,Hereford,8,19913.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,39,Marshall Leach,Burch Farms,Jane Jetson,Jane Jetson,Angus,16,44849.28,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,63,Marshall Leach,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,9,19712.70,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,70,Marshall Leach,Ayala Farms,David Sidebottom,Donald Quagley,Angus,5,10730.45,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,73,Marshall Leach,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,19,52536.33,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,81,Marshall Leach,Rosales Farms,Michael Krueger,Micheal Angel,Charolais,3,9906.78,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,91,Marshall Leach,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,12,24196.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,103,Marshall Leach,Gannon Trading,Jane Jetson,Jane Jetson,Angus,4,10177.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,143,Marshall Leach,Burch Farms,Jane Jetson,Jane Jetson,Angus,1,1886.70,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,195,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Angus,12,19503.12,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,201,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian,8,27526.72,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,224,Marshall Leach,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,8,21164.16,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,226,Marshall Leach,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Charolais,8,12858.56,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,24,Lee Chase,Cecilia Trading,Michael Krueger,Donald Quagley,Fresian X,3,9352.44,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,50,Lee Chase,Hardin Farms,Homer Palin,Ralph Wigwam,Angus,11,15275.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,84,Lee Chase,Burch Farms,Jane Jetson,Jane Jetson,Angus X,7,16363.06,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,112,Lee Chase,Everett Farms,David Sidebottom,Micheal Angel,Angus,15,30961.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,131,Lee Chase,Lee Chase,Dave Doppler,Dave Doppler,Angus,9,18239.58,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,147,Lee Chase,Carr Farms,Homer Palin,Micheal Angel,Angus X,20,66542.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,189,Lee Chase,Macdonald Farms,Donald Quagley,Donald Quagley,Hereford,3,7427.70,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,217,Lee Chase,Ayala Farms,David Sidebottom,Donald Quagley,Fresian,14,35871.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,218,Lee Chase,Cecilia Trading,Michael Krueger,Donald Quagley,Angus,14,42254.94,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,10,Illiana Maldonado,Carr Farms,Homer Palin,Micheal Angel,Angus X,4,7737.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,28,Illiana Maldonado,Adena Rich,Dave Doppler,Dave Doppler,Angus,4,7349.16,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,37,Illiana Maldonado,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus X,7,17904.25,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,45,Illiana Maldonado,Juliet Hayes,Homer Palin,Micheal Angel,Angus X,4,7079.52,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,58,Illiana Maldonado,Hardin Farms,Homer Palin,Ralph Wigwam,Angus X,15,43537.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,89,Illiana Maldonado,Hardin Farms,Homer Palin,Ralph Wigwam,Angus,18,50024.70,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,96,Illiana Maldonado,Bianca Foster,Bart O'Keefe,Jane Jetson,Fresian X,5,14441.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,102,Illiana Maldonado,Illiana Maldonado,Dave Doppler,Dave Doppler,Charolais,3,5704.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,198,Illiana Maldonado,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian,10,24421.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,210,Illiana Maldonado,Cecilia Trading,Michael Krueger,Donald Quagley,Angus,7,11290.72,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,214,Illiana Maldonado,Hasad Harrington,Alister Byng,Alister Byng,Angus,7,19532.38,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,6,Rosales Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Fresian,11,29346.13,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,22,Rosales Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus X,2,6813.90,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,31,Rosales Farms,Adena Rich,Dave Doppler,Dave Doppler,Fresian,2,4334.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,33,Rosales Farms,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,5,16669.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,40,Rosales Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,12,38794.56,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,53,Rosales Farms,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,8,14215.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,67,Rosales Farms,Everett Farms,David Sidebottom,Micheal Angel,Fresian X,5,8943.75,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,87,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Angus X,4,10020.84,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,93,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Fresian X,7,15589.56,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,94,Rosales Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Hereford,6,13687.74,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,115,Rosales Farms,Everett Farms,David Sidebottom,Micheal Angel,Angus,9,24606.72,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,118,Rosales Farms,Bright Farms,Donald Quagley,Donald Quagley,Angus X,6,17461.08,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,121,Rosales Farms,Samson Pollard,Micheal Angel,Micheal Angel,Angus,19,27588.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,132,Rosales Farms,Ayala Farms,David Sidebottom,Donald Quagley,Angus,20,45116.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,137,Rosales Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Fresian X,11,22672.65,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,152,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,18,48527.64,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,158,Rosales Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,3,6682.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,169,Rosales Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,16,39491.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,184,Rosales Farms,Cecilia Trading,Michael Krueger,Micheal Angel,Hereford,10,26460.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,199,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus,8,15183.36,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,205,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Hereford,5,8245.25,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,220,Rosales Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,15,36529.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,223,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Angus,9,13851.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,225,Rosales Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Angus,6,13316.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,228,Rosales Farms,Carr Farms,Homer Palin,Ralph Wigwam,Angus,16,50160.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,229,Rosales Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Angus,14,43013.74,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,2,Camden Hatfield,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,9,26609.94,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,14,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,14,27914.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,38,Camden Hatfield,Rosales Farms,Michael Krueger,Micheal Angel,Angus,17,59927.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,61,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian X,2,5651.10,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,64,Camden Hatfield,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian,17,40840.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,77,Camden Hatfield,Burch Farms,Jane Jetson,Jane Jetson,Angus X,7,22872.08,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,99,Camden Hatfield,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,3,9015.48,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,101,Camden Hatfield,Kylynn Trading,Michael Krueger,Donald Quagley,Fresian,15,28023.30,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,141,Camden Hatfield,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,20,44238.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,162,Camden Hatfield,Everett Farms,David Sidebottom,Micheal Angel,Fresian,12,38259.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,174,Camden Hatfield,Carr Farms,Homer Palin,Micheal Angel,Angus,12,23619.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,176,Camden Hatfield,Hermione Compton,Jane Jetson,Jane Jetson,Angus,2,5304.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,181,Camden Hatfield,Germane Blackburn,Leonardo Capris,Micheal Angel,Charolais,18,30964.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,208,Camden Hatfield,Bright Farms,Donald Quagley,Donald Quagley,Angus,14,41677.02,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,17,Nola Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus X,3,5964.75,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,41,Nola Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian,3,10567.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,68,Nola Trading,Gannon Trading,Jane Jetson,Jane Jetson,Angus,7,17635.59,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,117,Nola Trading,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,9,17811.90,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,151,Nola Trading,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,15,33333.30,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,157,Nola Trading,Ayala Farms,David Sidebottom,Donald Quagley,Angus,15,38361.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,165,Nola Trading,Burch Farms,Jane Jetson,Jane Jetson,Angus,15,38115.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,177,Nola Trading,Hasad Harrington,Alister Byng,Alister Byng,Fresian X,5,14366.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,178,Nola Trading,Samson Pollard,Micheal Angel,Micheal Angel,Angus,19,68790.64,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,183,Nola Trading,Adena Rich,Dave Doppler,Dave Doppler,Angus,4,7675.48,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,194,Nola Trading,Bright Farms,Donald Quagley,Donald Quagley,Fresian X,2,6526.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,202,Nola Trading,Rosales Farms,Michael Krueger,Micheal Angel,Angus,13,26208.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,16,Vernon Mcgee,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian,15,38489.10,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,30,Vernon Mcgee,Burch Farms,Jane Jetson,Jane Jetson,Angus X,11,25487.55,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,35,Vernon Mcgee,Adena Rich,Dave Doppler,Dave Doppler,Fresian,5,15602.25,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,136,Vernon Mcgee,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,2,6156.24,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,166,Vernon Mcgee,Bright Farms,Donald Quagley,Donald Quagley,Hereford,12,21397.56,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,179,Vernon Mcgee,Brent Ramirez,Jane Jetson,Jane Jetson,Hereford,1,2796.29,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,231,Vernon Mcgee,Samson Pollard,Micheal Angel,Micheal Angel,Angus,4,9329.12,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,1,Bianca Foster,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,13,25413.44,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,9,Bianca Foster,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Charolais,20,31726.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,15,Bianca Foster,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus X,13,42137.55,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,69,Bianca Foster,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian,4,12583.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,72,Bianca Foster,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,9,23026.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,80,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,4,12919.12,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,82,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Angus,8,16882.32,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,85,Bianca Foster,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,4,5586.24,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,105,Bianca Foster,Ayala Farms,David Sidebottom,Donald Quagley,Angus X,18,31618.26,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,108,Bianca Foster,Barclay Barr,Leonardo Capris,Donald Quagley,Angus,8,20729.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,156,Bianca Foster,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,3,5848.44,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,159,Bianca Foster,Dillard Farms,Dave Doppler,Dave Doppler,Charolais,3,6772.29,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,187,Bianca Foster,Aiko Swanson,Micheal Angel,Micheal Angel,Charolais,4,6623.08,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,204,Bianca Foster,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,6,14091.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,211,Bianca Foster,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,9,18474.84,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,221,Bianca Foster,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,11,19979.52,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,232,Bianca Foster,Ayala Farms,David Sidebottom,Donald Quagley,Charolais,2,5022.52,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,11,Jocelyn Dickson,Rosales Farms,Michael Krueger,Micheal Angel,Charolais,14,38465.28,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,25,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Angus,18,34313.76,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,29,Jocelyn Dickson,Adena Rich,Dave Doppler,Dave Doppler,Fresian X,9,18399.96,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,42,Jocelyn Dickson,Daniel Farms,Donald Quagley,Donald Quagley,Fresian,9,24813.54,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,60,Jocelyn Dickson,Hasad Harrington,Alister Byng,Alister Byng,Hereford,1,1551.42,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,83,Jocelyn Dickson,Carr Farms,Homer Palin,Micheal Angel,Charolais,2,3770.34,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,92,Jocelyn Dickson,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,4,10304.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,124,Jocelyn Dickson,Hermione Compton,Jane Jetson,Jane Jetson,Fresian X,8,15345.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,130,Jocelyn Dickson,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus X,3,4691.01,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,144,Jocelyn Dickson,Carr Farms,Homer Palin,Ralph Wigwam,Angus,5,13370.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,149,Jocelyn Dickson,Daniel Farms,Donald Quagley,Donald Quagley,Hereford,2,5703.52,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,182,Jocelyn Dickson,Rosales Farms,Michael Krueger,Micheal Angel,Hereford,14,43366.82,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,186,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,9,23442.21,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,197,Jocelyn Dickson,Barclay Barr,Leonardo Capris,Donald Quagley,Fresian,6,13729.56,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,216,Jocelyn Dickson,Hardin Farms,Homer Palin,Ralph Wigwam,Fresian X,2,4681.36,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,227,Jocelyn Dickson,Hermione Compton,Jane Jetson,Jane Jetson,Angus,16,45613.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,95,Marks Farms,Adena Rich,Dave Doppler,Dave Doppler,Hereford,9,30832.65,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,142,Marks Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,15,27979.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,155,Marks Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Angus,19,46291.41,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,163,Marks Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Charolais,20,36828.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,191,Marks Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,12,32854.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,207,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Charolais,19,46083.55,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,213,Marks Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Hereford,6,13991.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,222,Marks Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Angus,9,15182.64,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,21,Bright Farms,Bright Farms,Donald Quagley,Donald Quagley,Hereford,11,20549.43,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,26,Bright Farms,Hermione Compton,Jane Jetson,Jane Jetson,Fresian X,10,18823.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,71,Bright Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Fresian,8,17283.84,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,116,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,4,9994.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,119,Bright Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,7,9427.32,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,150,Bright Farms,Ayala Farms,David Sidebottom,Donald Quagley,Angus,6,20769.84,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,154,Bright Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,7,12994.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,171,Bright Farms,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,7,20271.30,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,190,Bright Farms,Dillard Farms,Dave Doppler,Dave Doppler,Fresian X,7,23110.92,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,8,Autumn Mooney,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,20,29896.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,34,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian X,7,21952.35,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,59,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,3,10694.88,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,62,Autumn Mooney,Samson Pollard,Micheal Angel,Micheal Angel,Angus,6,11115.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,97,Autumn Mooney,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian,5,13718.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,104,Autumn Mooney,Ayala Farms,David Sidebottom,Donald Quagley,Fresian,20,36930.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,168,Autumn Mooney,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,13,35451.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,196,Autumn Mooney,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,2,4991.74,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,233,Autumn Mooney,Bright Farms,Donald Quagley,Donald Quagley,Angus X,17,48314.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,234,Autumn Mooney,Camden Hatfield,Donald Quagley,Donald Quagley,Angus X,17,287.47,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,236,Autumn Mooney,Camden Hatfield,Donald Quagley,Donald Quagley,Angus X,17,3840.47,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,237,Autumn Mooney,Camden Hatfield,Donald Quagley,Donald Quagley,Angus X,17,3840.47,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,238,Autumn Mooney,Camden Hatfield,Donald Quagley,Donald Quagley,Angus X,17,148410.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,239,Autumn Mooney,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,148410.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,240,Autumn Mooney,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,299710.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,20,Macdonald Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian X,20,43858.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,55,Macdonald Farms,Carr Farms,Homer Palin,Ralph Wigwam,Angus,7,10955.98,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,88,Macdonald Farms,Kylynn Trading,Michael Krueger,Donald Quagley,Fresian X,2,4828.68,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,111,Macdonald Farms,Daniel Farms,Donald Quagley,Donald Quagley,Fresian X,4,6476.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,114,Macdonald Farms,Gannon Trading,Jane Jetson,Jane Jetson,Charolais,1,2732.74,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,128,Macdonald Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus X,4,9167.76,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,145,Macdonald Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,5,16512.60,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,192,Macdonald Farms,Hasad Harrington,Alister Byng,Alister Byng,Fresian,10,31996.30,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,203,Macdonald Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus X,9,28457.82,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,57,Dillard Farms,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,13,25941.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,79,Dillard Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,5,12664.25,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,98,Dillard Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,15,26032.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,135,Dillard Farms,Adena Rich,Dave Doppler,Dave Doppler,Hereford,10,26626.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,139,Dillard Farms,Bianca Foster,Bart O'Keefe,Jane Jetson,Charolais,9,25660.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,148,Dillard Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus X,11,19340.31,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,161,Dillard Farms,Lee Chase,Dave Doppler,Dave Doppler,Angus,5,13438.50,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,175,Dillard Farms,Barclay Barr,Leonardo Capris,Donald Quagley,Angus,4,7591.44,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,180,Dillard Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,5,13593.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,241,Dillard Farms,Ayala Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,245,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,259,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,260,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,261,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,262,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,264,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,1649.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,265,Dillard Farms,Burch Farms,Donald Quagley,Donald Quagley,Angus X,17,15266.17,1620,1620,"N,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,32,Anastasia Trading,Adena Rich,Dave Doppler,Dave Doppler,Hereford,4,7564.48,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,51,Anastasia Trading,Daniel Farms,Donald Quagley,Donald Quagley,Angus,4,12910.08,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,52,Anastasia Trading,Daniel Farms,Donald Quagley,Donald Quagley,Angus,10,32356.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,75,Anastasia Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,9,23965.92,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,76,Anastasia Trading,Hermione Compton,Jane Jetson,Jane Jetson,Hereford,4,8239.88,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,122,Anastasia Trading,Gannon Trading,Jane Jetson,Jane Jetson,Angus,16,33292.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,123,Anastasia Trading,Adena Rich,Dave Doppler,Dave Doppler,Angus X,7,11279.10,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,129,Anastasia Trading,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,11,22102.52,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,164,Anastasia Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Charolais,14,22113.00,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,185,Anastasia Trading,Carr Farms,Homer Palin,Micheal Angel,Angus,2,6181.44,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,193,Anastasia Trading,Hasad Harrington,Alister Byng,Alister Byng,Angus X,12,22963.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,209,Anastasia Trading,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,14,37220.40,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,215,Anastasia Trading,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,2,3838.30,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,219,Anastasia Trading,Gannon Trading,Jane Jetson,Jane Jetson,Fresian,10,23377.80,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,19,Ina Trading,Macdonald Farms,Donald Quagley,Donald Quagley,Angus,12,26472.96,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,65,Ina Trading,Lee Chase,Dave Doppler,Dave Doppler,Angus X,9,12823.20,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,74,Ina Trading,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,12,20818.08,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,78,Ina Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,17,37887.05,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,110,Ina Trading,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,19,50825.38,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,138,Ina Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,2,4062.04,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1620,160,Ina Trading,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,2,3137.28,1620,1620,0,2019-08-10,2019-08-10,11:00:00,11:00:00
+C1621,132,Kylynn Trading,Ayala Farms,David Sidebottom,Donald Quagley,Angus,20,44415.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,43,Cecilia Trading,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,1,2470.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,150,Cecilia Trading,Ayala Farms,David Sidebottom,Donald Quagley,Angus,6,13170.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,21,Hermione Compton,Bright Farms,Donald Quagley,Donald Quagley,Hereford,11,29140.65,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,76,Hermione Compton,Hermione Compton,Jane Jetson,Jane Jetson,Hereford,4,8709.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,151,Hermione Compton,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,15,37449.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,143,Meghan Dalton,Burch Farms,Jane Jetson,Jane Jetson,Angus,1,2251.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,170,Meghan Dalton,Kylynn Trading,Michael Krueger,Donald Quagley,Charolais,5,13189.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,58,Ayala Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Angus X,15,40411.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,84,Ayala Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus X,7,17228.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,133,Ayala Farms,Samson Pollard,Micheal Angel,Micheal Angel,Fresian X,2,5335.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,147,Ayala Farms,Carr Farms,Homer Palin,Micheal Angel,Angus X,20,43800.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,11,Burch Farms,Rosales Farms,Michael Krueger,Micheal Angel,Charolais,14,31555.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,28,Burch Farms,Adena Rich,Dave Doppler,Dave Doppler,Angus,4,7056.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,158,Burch Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,3,7160.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,85,Daniel Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,4,8355.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,168,Daniel Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,13,29682.90,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,183,Daniel Farms,Adena Rich,Dave Doppler,Dave Doppler,Angus,4,7839.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,90,Carr Farms,Burch Farms,Jane Jetson,Jane Jetson,Fresian,13,29365.70,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,51,Whitaker Farms,Daniel Farms,Donald Quagley,Donald Quagley,Angus,4,11623.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,82,Whitaker Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,8,17971.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,134,Whitaker Farms,Carr Farms,Homer Palin,Micheal Angel,Charolais,10,19467.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,137,Whitaker Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Fresian X,11,23293.05,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,152,Whitaker Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,18,45708.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,71,Valenzuela Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Fresian,8,17892.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,97,Melissa Ruiz,Camden Hatfield,Lisa Andrewson,Jane Jetson,Fresian,5,14632.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,135,Melissa Ruiz,Adena Rich,Dave Doppler,Dave Doppler,Hereford,10,22326.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,157,Melissa Ruiz,Ayala Farms,David Sidebottom,Donald Quagley,Angus,15,40590.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,131,Aiko Swanson,Lee Chase,Dave Doppler,Dave Doppler,Angus,9,23184.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,27,Roary Gillespie,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian X,3,7737.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,34,Roary Gillespie,Brent Ramirez,Jane Jetson,Jane Jetson,Fresian X,7,16285.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,69,Marshall Leach,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian,4,8016.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,75,Marshall Leach,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,9,17554.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,89,Marshall Leach,Hardin Farms,Homer Palin,Ralph Wigwam,Angus,18,38596.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,93,Marshall Leach,Rosales Farms,Michael Krueger,Micheal Angel,Fresian X,7,14708.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,98,Marshall Leach,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,15,29962.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,13,Gannon Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,10,20970.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,36,Gannon Trading,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Fresian X,13,25983.10,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,79,Gannon Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,5,9552.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,176,Gannon Trading,Hermione Compton,Jane Jetson,Jane Jetson,Angus,2,4260.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,184,Gannon Trading,Cecilia Trading,Michael Krueger,Micheal Angel,Hereford,10,24824.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,186,Gannon Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,9,17646.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,129,Lee Chase,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,11,24161.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,9,Illiana Maldonado,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Charolais,20,50827.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,12,Illiana Maldonado,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,7,14877.10,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,14,Illiana Maldonado,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,14,27989.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,125,Illiana Maldonado,Hermione Compton,Jane Jetson,Jane Jetson,Angus,3,5250.90,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,141,Illiana Maldonado,Hermione Compton,Jane Jetson,Jane Jetson,Angus X,20,53640.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,142,Illiana Maldonado,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,15,37455.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,149,Illiana Maldonado,Daniel Farms,Donald Quagley,Donald Quagley,Hereford,2,4922.70,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,94,Rosales Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Hereford,6,14182.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,96,Rosales Farms,Bianca Foster,Bart O'Keefe,Jane Jetson,Fresian X,5,14079.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,138,Rosales Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,2,3979.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,179,Rosales Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Hereford,1,2332.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,56,Camden Hatfield,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Fresian X,16,45914.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,139,Camden Hatfield,Bianca Foster,Bart O'Keefe,Jane Jetson,Charolais,9,23829.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,62,Nola Trading,Samson Pollard,Micheal Angel,Micheal Angel,Angus,6,12985.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,68,Nola Trading,Gannon Trading,Jane Jetson,Jane Jetson,Angus,7,16653.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,169,Nola Trading,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus,16,35467.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,45,Vernon Mcgee,Juliet Hayes,Homer Palin,Micheal Angel,Angus X,4,9193.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,54,Vernon Mcgee,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,16,33600.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,121,Vernon Mcgee,Samson Pollard,Micheal Angel,Micheal Angel,Angus,19,44365.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,182,Vernon Mcgee,Rosales Farms,Michael Krueger,Micheal Angel,Hereford,14,36363.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,23,Bianca Foster,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Beef X,2,5117.90,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,126,Bianca Foster,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,5,9524.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,17,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus X,3,8448.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,92,Jocelyn Dickson,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus,4,11492.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,73,Wang Riley,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,19,48119.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,124,Wang Riley,Hermione Compton,Jane Jetson,Jane Jetson,Fresian X,8,17605.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,144,Wang Riley,Carr Farms,Homer Palin,Ralph Wigwam,Angus,5,11664.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,146,Wang Riley,Bianca Foster,Bart O'Keefe,Jane Jetson,Fresian X,1,1797.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,160,Wang Riley,Rosales Farms,Michael Krueger,Micheal Angel,Angus X,2,3715.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,189,Wang Riley,Macdonald Farms,Donald Quagley,Donald Quagley,Hereford,3,7320.00,1621,1621,"N,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,22,Adena Rich,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus X,2,4836.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,63,Adena Rich,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,9,20916.90,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,159,Adena Rich,Dillard Farms,Dave Doppler,Dave Doppler,Charolais,3,7387.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,5,Brody Stanley,Dillard Farms,Dave Doppler,Dave Doppler,Charolais,7,16882.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,122,Brody Stanley,Gannon Trading,Jane Jetson,Jane Jetson,Angus,16,42544.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,29,Zephania Houston,Adena Rich,Dave Doppler,Dave Doppler,Fresian X,9,18382.95,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,32,Zephania Houston,Adena Rich,Dave Doppler,Dave Doppler,Hereford,4,6998.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,174,Zephania Houston,Carr Farms,Homer Palin,Micheal Angel,Angus,12,30950.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,140,Marks Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,7,16378.95,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,25,Bright Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus,18,40320.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,102,Bright Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Charolais,3,6957.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,24,Autumn Mooney,Cecilia Trading,Michael Krueger,Donald Quagley,Fresian X,3,7750.05,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,30,Autumn Mooney,Burch Farms,Jane Jetson,Jane Jetson,Angus X,11,17963.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,16,Hasad Harrington,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian,15,36108.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,31,Hasad Harrington,Adena Rich,Dave Doppler,Dave Doppler,Fresian,2,5227.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,46,Hasad Harrington,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,9,20563.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,181,Hasad Harrington,Germane Blackburn,Leonardo Capris,Micheal Angel,Charolais,18,29119.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,106,Macdonald Farms,Lee Chase,Dave Doppler,Dave Doppler,Angus X,9,27417.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,103,Dillard Farms,Gannon Trading,Jane Jetson,Jane Jetson,Angus,4,9084.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,111,Dillard Farms,Daniel Farms,Donald Quagley,Donald Quagley,Fresian X,4,8940.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,177,Dillard Farms,Hasad Harrington,Alister Byng,Alister Byng,Fresian X,5,12245.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,4,Anastasia Trading,Burch Farms,Jane Jetson,Jane Jetson,Hereford,8,19209.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,53,Anastasia Trading,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,8,20346.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,154,Anastasia Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,7,17511.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,38,Ina Trading,Rosales Farms,Michael Krueger,Micheal Angel,Angus,17,44824.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,61,Ina Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Fresian X,2,4413.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,171,Ina Trading,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,7,16797.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,180,Ina Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,5,11194.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,10,Hardin Farms,Carr Farms,Homer Palin,Micheal Angel,Angus X,4,9923.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,110,Hardin Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,19,57839.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,155,Hardin Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Angus,19,40356.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,8,Germane Blackburn,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,20,52326.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,105,Germane Blackburn,Ayala Farms,David Sidebottom,Donald Quagley,Angus X,18,43510.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,41,Juliet Hayes,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian,3,6938.55,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,78,Juliet Hayes,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,17,43459.65,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,136,Juliet Hayes,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,2,4704.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,26,Fitzpatrick Farms,Hermione Compton,Jane Jetson,Jane Jetson,Fresian X,10,21725.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,37,Fitzpatrick Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus X,7,13802.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,39,Fitzpatrick Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus,16,33840.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,70,Fitzpatrick Farms,Ayala Farms,David Sidebottom,Donald Quagley,Angus,5,10164.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,80,Fitzpatrick Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,4,9455.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,116,Fitzpatrick Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,4,9417.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,128,Fitzpatrick Farms,Burch Farms,Jane Jetson,Jane Jetson,Angus X,4,9508.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,185,Fitzpatrick Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,2,4308.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,188,Fitzpatrick Farms,Adena Rich,Dave Doppler,Dave Doppler,Angus,13,26578.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,119,Samson Pollard,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Angus,7,18256.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,148,Samson Pollard,Germane Blackburn,Leonardo Capris,Micheal Angel,Angus X,11,24281.95,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,161,Samson Pollard,Lee Chase,Dave Doppler,Dave Doppler,Angus,5,12622.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,163,Samson Pollard,Kirk Cameron,Lisa Andrewson,Jane Jetson,Charolais,20,42952.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,187,Samson Pollard,Aiko Swanson,Micheal Angel,Micheal Angel,Charolais,4,10704.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,20,Barclay Barr,Illiana Maldonado,Dave Doppler,Dave Doppler,Fresian X,20,50792.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,83,Barclay Barr,Carr Farms,Homer Palin,Micheal Angel,Charolais,2,4885.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,87,Barclay Barr,Carr Farms,Homer Palin,Micheal Angel,Angus X,4,11370.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,91,Barclay Barr,Brent Ramirez,Jane Jetson,Jane Jetson,Charolais,12,26334.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,117,Barclay Barr,Brody Stanley,Bart O'Keefe,Jane Jetson,Angus,9,16706.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,57,Everett Farms,Dillard Farms,Dave Doppler,Dave Doppler,Angus X,13,32949.15,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,7,Chase Mccormick,Carr Farms,Homer Palin,Micheal Angel,Angus,17,32555.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,64,Chase Mccormick,Germane Blackburn,Leonardo Capris,Micheal Angel,Fresian,17,41150.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,59,Suki Golden,Brent Ramirez,Jane Jetson,Jane Jetson,Angus X,3,8826.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,178,Suki Golden,Samson Pollard,Micheal Angel,Micheal Angel,Angus,19,38570.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,167,Stephanie Rodriguez,Aiko Swanson,Micheal Angel,Micheal Angel,Angus X,4,8332.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,44,Lev Michael,Cecilia Trading,Michael Krueger,Donald Quagley,Charolais,17,38953.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,104,Lev Michael,Ayala Farms,David Sidebottom,Donald Quagley,Fresian,20,48461.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,33,Madaline Trading,Samson Pollard,Micheal Angel,Micheal Angel,Hereford,5,11076.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,40,Madaline Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,12,22401.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,55,Madaline Trading,Carr Farms,Homer Palin,Ralph Wigwam,Angus,7,12726.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,164,Madaline Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Charolais,14,34064.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,145,Barrett Fuller,Juliet Hayes,Homer Palin,Ralph Wigwam,Angus X,5,8280.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,35,Mckee Farms,Adena Rich,Dave Doppler,Dave Doppler,Fresian,5,13686.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,65,Mckee Farms,Lee Chase,Dave Doppler,Dave Doppler,Angus X,9,14235.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,156,Mckee Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Angus,3,7353.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,72,Cedric Cummings,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus X,9,21150.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,99,Cedric Cummings,Illiana Maldonado,Dave Doppler,Dave Doppler,Angus,3,6948.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,165,Cedric Cummings,Burch Farms,Jane Jetson,Jane Jetson,Angus,15,33088.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,74,Gill Farms,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,12,27273.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,173,Gill Farms,Carr Farms,Homer Palin,Micheal Angel,Angus,3,4947.30,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,2,Grady Blevins,Bianca Foster,Bart O'Keefe,Jane Jetson,Angus,9,20362.50,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,50,Grady Blevins,Hardin Farms,Homer Palin,Ralph Wigwam,Angus,11,21564.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,114,Grady Blevins,Gannon Trading,Jane Jetson,Jane Jetson,Charolais,1,1986.95,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,88,Mary Trading,Kylynn Trading,Michael Krueger,Donald Quagley,Fresian X,2,4106.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,3,Sydnee Ayala,Burch Farms,Jane Jetson,Jane Jetson,Angus,8,18597.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,66,Sydnee Ayala,Kirk Cameron,Lisa Andrewson,Jane Jetson,Angus,5,10436.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,77,Sydnee Ayala,Burch Farms,Jane Jetson,Jane Jetson,Angus X,7,15460.20,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,95,Sydnee Ayala,Adena Rich,Dave Doppler,Dave Doppler,Hereford,9,26438.40,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,107,Sydnee Ayala,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Hereford,20,48314.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,6,Emery Mendoza,Juliet Hayes,Homer Palin,Ralph Wigwam,Fresian,11,22854.15,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,18,Emery Mendoza,Carr Farms,Homer Palin,Ralph Wigwam,Angus,3,8455.95,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,113,Emery Mendoza,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus,8,23269.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,123,Emery Mendoza,Adena Rich,Dave Doppler,Dave Doppler,Angus X,7,20901.65,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,52,Urielle Davidson,Daniel Farms,Donald Quagley,Donald Quagley,Angus,10,25665.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,101,Urielle Davidson,Kylynn Trading,Michael Krueger,Donald Quagley,Fresian,15,29666.25,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,118,Urielle Davidson,Bright Farms,Donald Quagley,Donald Quagley,Angus X,6,13221.90,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,19,Violet Trading,Macdonald Farms,Donald Quagley,Donald Quagley,Angus,12,28684.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,60,Violet Trading,Hasad Harrington,Alister Byng,Alister Byng,Hereford,1,2059.75,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,127,Lester Hayes,Hardin Farms,Homer Palin,Ralph Wigwam,Angus X,8,18144.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,130,Lester Hayes,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Angus X,3,7255.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,1,Mclean Farms,Gannon Trading,Jane Jetson,Jane Jetson,Angus X,13,37050.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,81,Mclean Farms,Rosales Farms,Michael Krueger,Micheal Angel,Charolais,3,5244.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,172,Mclean Farms,Bright Farms,Donald Quagley,Donald Quagley,Fresian,2,5178.60,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+C1621,166,Humphrey Farms,Bright Farms,Donald Quagley,Donald Quagley,Hereford,12,26902.80,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00

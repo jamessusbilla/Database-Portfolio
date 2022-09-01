@@ -1,0 +1,1 @@
+THE ATTACHED StoredProcedure.sql will be called by the event at the specified date.

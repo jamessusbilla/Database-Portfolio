@@ -1,0 +1,473 @@
+-- ----------------------------------------------------------------------------
+-- MySQL Workbench Migration
+-- Migrated Schemata: StockAuctionDB
+-- Source Schemata: stockauction
+-- Created: Sun Sep 27 23:51:55 2020
+-- Workbench Version: 8.0.21
+-- ----------------------------------------------------------------------------
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- ----------------------------------------------------------------------------
+-- Schema StockAuctionDB
+-- ----------------------------------------------------------------------------
+DROP SCHEMA IF EXISTS `StockAuctionDB` ;
+CREATE SCHEMA IF NOT EXISTS `StockAuctionDB` ;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.auctionclient
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`auctionclient` (
+  `id` CHAR(10) CHARACTER SET 'utf8' NOT NULL,
+  `fullName` CHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `address1` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `address2` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `address3` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `province` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `contactPerson` CHAR(50) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `phone` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `phone2` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `email` CHAR(50) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `preferredNumber` SMALLINT NULL DEFAULT NULL,
+  `total` INT NULL DEFAULT NULL,
+  `attendance` DECIMAL(5,0) NULL DEFAULT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.auctionclientatauction
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`auctionclientatauction` (
+  `auctionId` SMALLINT NOT NULL,
+  `clientNumber` SMALLINT NOT NULL,
+  `clientID` CHAR(10) CHARACTER SET 'utf8' NOT NULL,
+  `totalValue` INT NULL DEFAULT NULL,
+  `soldValue` INT NULL DEFAULT NULL,
+  PRIMARY KEY (`auctionId`, `clientNumber`),
+  INDEX `IDX_auctionclientatauction` (`clientID` ASC, `clientNumber` ASC) VISIBLE,
+  CONSTRAINT `FK_AuctionClientAtAuction_AuctionClient`
+    FOREIGN KEY (`clientID`)
+    REFERENCES `StockAuctionDB`.`auctionclient` (`id`),
+  CONSTRAINT `FK_AuctionClientAtAuction_AuctionDay`
+    FOREIGN KEY (`auctionId`)
+    REFERENCES `StockAuctionDB`.`auctionday` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.auctionday
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`auctionday` (
+  `id` SMALLINT NOT NULL,
+  `auctionDay` DATE NOT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.cattleauction
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`cattleauction` (
+  `id` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `auctionId` SMALLINT NULL DEFAULT NULL,
+  `startTime` TIME NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `FK_CattleAuction_AuctionDay` (`auctionId` ASC) VISIBLE,
+  CONSTRAINT `FK_CattleAuction_AuctionDay`
+    FOREIGN KEY (`auctionId`)
+    REFERENCES `StockAuctionDB`.`auctionday` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.cattlelot
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`cattlelot` (
+  `auctionId` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `lotNumber` SMALLINT NOT NULL,
+  `auctionDay` SMALLINT NOT NULL,
+  `seller` SMALLINT NOT NULL,
+  `agent` CHAR(10) CHARACTER SET 'utf8' NOT NULL,
+  `breed` CHAR(20) CHARACTER SET 'utf8' NOT NULL,
+  `sex` CHAR(1) CHARACTER SET 'utf8' NOT NULL,
+  `age` TINYINT NOT NULL,
+  `quantity` TINYINT NOT NULL,
+  `averageWeight` DECIMAL(6,2) NULL DEFAULT NULL,
+  `reserve` DECIMAL(5,2) NULL DEFAULT NULL,
+  `auctioneer` CHAR(10) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `buyer` SMALLINT NULL DEFAULT NULL,
+  `sellingPricePerKg` DECIMAL(5,2) NULL DEFAULT NULL,
+  `lotSellingPrice` DECIMAL(8,2) GENERATED ALWAYS AS (((`quantity` * `averageWeight`) * `sellingPricePerKg`)) VIRTUAL,
+  `passedIn` BIT(1) NULL DEFAULT NULL,
+  PRIMARY KEY (`auctionId`, `lotNumber`),
+  INDEX `FK_CattleLot_AuctionClientAtAuction_buyer` (`auctionDay` ASC, `buyer` ASC) VISIBLE,
+  INDEX `FK_CattleLot_AuctionClientAtAuction_seller` (`auctionDay` ASC, `seller` ASC) VISIBLE,
+  INDEX `FK_CattleLot_StockAgent_auctioneer` (`auctioneer` ASC) VISIBLE,
+  INDEX `IDX_AgentCattleLot` (`agent` ASC, `seller` ASC, `auctionId` ASC) VISIBLE,
+  CONSTRAINT `FK_CattleLot_AuctionClientAtAuction_buyer`
+    FOREIGN KEY (`auctionDay` , `buyer`)
+    REFERENCES `StockAuctionDB`.`auctionclientatauction` (`auctionId` , `clientNumber`),
+  CONSTRAINT `FK_CattleLot_AuctionClientAtAuction_seller`
+    FOREIGN KEY (`auctionDay` , `seller`)
+    REFERENCES `StockAuctionDB`.`auctionclientatauction` (`auctionId` , `clientNumber`),
+  CONSTRAINT `FK_CattleLot_CattleAuction`
+    FOREIGN KEY (`auctionId`)
+    REFERENCES `StockAuctionDB`.`cattleauction` (`id`),
+  CONSTRAINT `FK_CattleLot_StockAgent_agent`
+    FOREIGN KEY (`agent`)
+    REFERENCES `StockAuctionDB`.`stockagent` (`id`),
+  CONSTRAINT `FK_CattleLot_StockAgent_auctioneer`
+    FOREIGN KEY (`auctioneer`)
+    REFERENCES `StockAuctionDB`.`stockagent` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.clientattendance
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`clientattendance` (
+  `yr` SMALLINT NULL DEFAULT NULL,
+  `clientNumber` SMALLINT NULL DEFAULT NULL,
+  `attendance` SMALLINT NULL DEFAULT NULL)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.sheepauction
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`sheepauction` (
+  `id` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `auctionId` SMALLINT NULL DEFAULT NULL,
+  `startTime` TIME NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `FK_SheepAuction_AuctionDay` (`auctionId` ASC) VISIBLE,
+  CONSTRAINT `FK_SheepAuction_AuctionDay`
+    FOREIGN KEY (`auctionId`)
+    REFERENCES `StockAuctionDB`.`auctionday` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.sheeplot
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`sheeplot` (
+  `auctionId` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `lotNumber` SMALLINT NOT NULL,
+  `auctionDay` SMALLINT NOT NULL,
+  `seller` SMALLINT NOT NULL,
+  `agent` CHAR(10) CHARACTER SET 'utf8' NOT NULL,
+  `breed` CHAR(20) CHARACTER SET 'utf8' NOT NULL,
+  `sex` CHAR(1) CHARACTER SET 'utf8' NOT NULL,
+  `age` TINYINT NOT NULL,
+  `quantity` TINYINT NOT NULL,
+  `reserve` DECIMAL(5,2) NULL DEFAULT NULL,
+  `auctioneer` CHAR(10) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `buyer` SMALLINT NULL DEFAULT NULL,
+  `sellingPricePerHead` DECIMAL(5,2) NULL DEFAULT NULL,
+  `lotSellingPrice` DECIMAL(7,2) GENERATED ALWAYS AS ((`quantity` * `sellingPricePerHead`)) VIRTUAL,
+  `passedIn` BIT(1) NULL DEFAULT NULL,
+  PRIMARY KEY (`auctionId`, `lotNumber`),
+  INDEX `FK_SheepLot_AuctionClientAtAuction_buyer` (`auctionDay` ASC, `buyer` ASC) VISIBLE,
+  INDEX `FK_SheepLot_AuctionClientAtAuction_seller` (`auctionDay` ASC, `seller` ASC) VISIBLE,
+  INDEX `FK_SheepLot_StockAgent_auctioneer` (`auctioneer` ASC) VISIBLE,
+  INDEX `IDX_AgentSheepLot` (`agent` ASC, `seller` ASC, `auctionId` ASC) VISIBLE,
+  CONSTRAINT `FK_SheepLot_AuctionClientAtAuction_buyer`
+    FOREIGN KEY (`auctionDay` , `buyer`)
+    REFERENCES `StockAuctionDB`.`auctionclientatauction` (`auctionId` , `clientNumber`),
+  CONSTRAINT `FK_SheepLot_AuctionClientAtAuction_seller`
+    FOREIGN KEY (`auctionDay` , `seller`)
+    REFERENCES `StockAuctionDB`.`auctionclientatauction` (`auctionId` , `clientNumber`),
+  CONSTRAINT `FK_SheepLot_SheepAuction`
+    FOREIGN KEY (`auctionId`)
+    REFERENCES `StockAuctionDB`.`sheepauction` (`id`),
+  CONSTRAINT `FK_SheepLot_StockAgent_agent`
+    FOREIGN KEY (`agent`)
+    REFERENCES `StockAuctionDB`.`stockagent` (`id`),
+  CONSTRAINT `FK_SheepLot_StockAgent_auctioneer`
+    FOREIGN KEY (`auctioneer`)
+    REFERENCES `StockAuctionDB`.`stockagent` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.stockagency
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`stockagency` (
+  `id` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `fullName` CHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `address1` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `address2` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `address3` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `province` CHAR(30) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `contactPerson` CHAR(50) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `phone` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `phone2` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `email` CHAR(50) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- Table StockAuctionDB.stockagent
+-- ----------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `StockAuctionDB`.`stockagent` (
+  `id` CHAR(10) CHARACTER SET 'utf8' NOT NULL,
+  `fullName` CHAR(50) CHARACTER SET 'utf8' NOT NULL,
+  `shortName` CHAR(10) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `stockAgency` CHAR(5) CHARACTER SET 'utf8' NOT NULL,
+  `phone` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `phone2` CHAR(15) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `email` CHAR(50) CHARACTER SET 'utf8' NULL DEFAULT NULL,
+  `isAuctioneer` BIT(1) NULL DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `FK_StockAgent_StockAgency` (`stockAgency` ASC) VISIBLE,
+  CONSTRAINT `FK_StockAgent_StockAgency`
+    FOREIGN KEY (`stockAgency`)
+    REFERENCES `StockAuctionDB`.`stockagency` (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+-- ----------------------------------------------------------------------------
+-- View StockAuctionDB.vattendance
+-- ----------------------------------------------------------------------------
+USE `StockAuctionDB`;
+CREATE  OR REPLACE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `stockauction`.`vattendance` AS select `l5`.`buyday` AS `buyday`,`l5`.`sellday` AS `sellday`,`l5`.`BuyerClientNumber` AS `BuyerClientNumber`,`l5`.`SellerClientNumber` AS `SellerClientNumber`,`l5`.`Attendance` AS `Attendance` from (select `l4`.`Attendance` AS `Attendance`,`l4`.`BuyerClientNumber` AS `BuyerClientNumber`,`l4`.`SellerClientNumber` AS `SellerClientNumber`,year(`adb`.`auctionDay`) AS `buyday`,year(`ads`.`auctionDay`) AS `sellday` from (((select `l3`.`seller` AS `seller`,`l3`.`Buyer` AS `Buyer`,`l3`.`Attendance` AS `Attendance`,`l3`.`SellerAuctionDay` AS `SellerAuctionDay`,`l3`.`BuyerAuctionDay` AS `BuyerAuctionDay`,`acab`.`clientNumber` AS `BuyerClientNumber`,`acab`.`auctionId` AS `BuyerAuctionID`,`acas`.`clientNumber` AS `SellerClientNumber`,`acas`.`auctionId` AS `SellerAuctionID` from (((select `l2`.`seller` AS `seller`,if(((`l2`.`buyer` is null) or (`l2`.`buyer` = `l2`.`seller`)),0,`l2`.`buyer`) AS `Buyer`,sum(`l2`.`attendance`) AS `Attendance`,`l2`.`SellerAuctionDay` AS `SellerAuctionDay`,`l2`.`BuyerAuctionDay` AS `BuyerAuctionDay` from (select `l1`.`seller` AS `seller`,`l1`.`buyer` AS `buyer`,`l1`.`lotNumber` AS `lotNumber`,if((`l1`.`seller` <> `l1`.`buyer`),1,1) AS `attendance`,`l1`.`CSAuctionDay` AS `SellerAuctionDay`,`l1`.`CBAuctionDay` AS `BuyerAuctionDay` from (select `cls`.`auctionId` AS `auctionId`,`cls`.`lotNumber` AS `lotNumber`,`cls`.`seller` AS `seller`,`clb`.`buyer` AS `buyer`,`cls`.`auctionDay` AS `CSAuctionDay`,`clb`.`auctionDay` AS `CBAuctionDay` from (`stockauction`.`cattlelot` `cls` join `stockauction`.`cattlelot` `clb` on(((`clb`.`auctionId` = `cls`.`auctionId`) and (`clb`.`lotNumber` = `cls`.`lotNumber`))))) `l1` union all select `l1`.`seller` AS `seller`,`l1`.`buyer` AS `buyer`,`l1`.`lotNumber` AS `lotNumber`,if((`l1`.`seller` <> `l1`.`buyer`),1,1) AS `attendance`,`l1`.`SSAuctionDay` AS `SSAuctionDay`,`l1`.`SBAuctionDay` AS `SBAuctionDay` from (select `sls`.`auctionId` AS `auctionId`,`sls`.`lotNumber` AS `lotNumber`,`sls`.`seller` AS `seller`,`slb`.`buyer` AS `buyer`,`sls`.`auctionDay` AS `SSAuctionDay`,`slb`.`auctionDay` AS `SBAuctionDay` from (`stockauction`.`sheeplot` `sls` join `stockauction`.`sheeplot` `slb` on(((`slb`.`auctionId` = `sls`.`auctionId`) and (`slb`.`lotNumber` = `sls`.`lotNumber`))))) `l1`) `l2` group by `l2`.`seller`,`l2`.`buyer`) `l3` left join `stockauction`.`auctionclientatauction` `acab` on(((`acab`.`auctionId` = `l3`.`BuyerAuctionDay`) and (`acab`.`clientNumber` = `l3`.`Buyer`)))) left join `stockauction`.`auctionclientatauction` `acas` on(((`acas`.`auctionId` = `l3`.`SellerAuctionDay`) and (`acas`.`clientNumber` = `l3`.`seller`))))) `l4` left join `stockauction`.`auctionday` `adb` on((`adb`.`id` = `l4`.`BuyerAuctionID`))) left join `stockauction`.`auctionday` `ads` on((`ads`.`id` = `l4`.`SellerAuctionID`)))) `l5`;
+
+-- ----------------------------------------------------------------------------
+-- View StockAuctionDB.vcattlelot
+-- ----------------------------------------------------------------------------
+USE `StockAuctionDB`;
+CREATE  OR REPLACE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `stockauction`.`vcattlelot` AS select `l5`.`auctionId` AS `auctionID`,`l5`.`lotNumber` AS `lotNumber`,`l5`.`Buyer` AS `Buyer`,`acseller`.`fullName` AS `Seller`,`l5`.`AgentName` AS `AgentName`,`l5`.`AuctioneerName` AS `AuctioneerName`,`l5`.`breed` AS `breed`,`l5`.`quantity` AS `quantity`,`l5`.`lotSellingPrice` AS `lotSellingPrice`,`l5`.`passedIn` AS `passedIn` from ((select `l4`.`auctionId` AS `auctionId`,`l4`.`lotNumber` AS `lotNumber`,`l4`.`bclientID` AS `bclientID`,`l4`.`sclientID` AS `sclientID`,`l4`.`AgentName` AS `AgentName`,`l4`.`AuctioneerName` AS `AuctioneerName`,`l4`.`breed` AS `breed`,`l4`.`quantity` AS `quantity`,`l4`.`lotSellingPrice` AS `lotSellingPrice`,`l4`.`passedIn` AS `passedIn`,`acbuyer`.`fullName` AS `Buyer` from ((select `l3`.`auctionId` AS `auctionId`,`l3`.`lotNumber` AS `lotNumber`,`l3`.`seller` AS `seller`,`l3`.`buyer` AS `buyer`,`l3`.`AgentName` AS `AgentName`,`l3`.`AuctioneerName` AS `AuctioneerName`,`l3`.`breed` AS `breed`,`l3`.`quantity` AS `quantity`,`l3`.`lotSellingPrice` AS `lotSellingPrice`,`l3`.`passedIn` AS `passedIn`,`l3`.`bclientID` AS `bclientID`,`acs`.`clientID` AS `sclientID` from ((select `l2`.`auctionDay` AS `auctionDay`,`l2`.`auctionId` AS `auctionId`,`l2`.`lotNumber` AS `lotNumber`,`l2`.`seller` AS `seller`,`l2`.`buyer` AS `buyer`,`l2`.`AgentName` AS `AgentName`,`l2`.`AuctioneerName` AS `AuctioneerName`,`l2`.`breed` AS `breed`,`l2`.`quantity` AS `quantity`,`l2`.`lotSellingPrice` AS `lotSellingPrice`,`l2`.`passedIn` AS `passedIn`,`aca`.`clientID` AS `bclientID` from ((select `l1`.`auctionDay` AS `auctionDay`,`l1`.`auctionId` AS `auctionId`,`l1`.`lotNumber` AS `lotNumber`,`l1`.`seller` AS `seller`,`l1`.`buyer` AS `buyer`,`l1`.`AgentName` AS `AgentName`,`sau`.`fullName` AS `AuctioneerName`,`l1`.`breed` AS `breed`,`l1`.`quantity` AS `quantity`,`l1`.`lotSellingPrice` AS `lotSellingPrice`,`l1`.`passedIn` AS `passedIn` from ((select `cl`.`auctionDay` AS `auctionDay`,`cl`.`auctionId` AS `auctionId`,`cl`.`lotNumber` AS `lotNumber`,`cl`.`seller` AS `seller`,`cl`.`buyer` AS `buyer`,`cl`.`breed` AS `breed`,`cl`.`quantity` AS `quantity`,`cl`.`agent` AS `agent`,`sag`.`fullName` AS `AgentName`,`cl`.`auctioneer` AS `auctioneer`,`cl`.`lotSellingPrice` AS `lotSellingPrice`,`cl`.`passedIn` AS `passedIn` from (`stockauction`.`cattlelot` `cl` join `stockauction`.`stockagent` `sag` on((`sag`.`id` = `cl`.`agent`)))) `l1` join `stockauction`.`stockagent` `sau` on((`sau`.`id` = `l1`.`auctioneer`)))) `l2` join `stockauction`.`auctionclientatauction` `aca` on(((`aca`.`clientNumber` = `l2`.`buyer`) and (`aca`.`auctionId` = `l2`.`auctionDay`))))) `l3` join `stockauction`.`auctionclientatauction` `acs` on(((`acs`.`clientNumber` = `l3`.`seller`) and (`acs`.`auctionId` = `l3`.`auctionDay`))))) `l4` join `stockauction`.`auctionclient` `acbuyer` on((`acbuyer`.`id` = `l4`.`bclientID`)))) `l5` join `stockauction`.`auctionclient` `acseller` on((`acseller`.`id` = `l5`.`sclientID`))) where (`l5`.`lotSellingPrice` is not null);
+
+-- ----------------------------------------------------------------------------
+-- View StockAuctionDB.vsheeplot
+-- ----------------------------------------------------------------------------
+USE `StockAuctionDB`;
+CREATE  OR REPLACE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `stockauction`.`vsheeplot` AS select `l5`.`auctionId` AS `auctionID`,`l5`.`lotNumber` AS `lotNumber`,`l5`.`Buyer` AS `Buyer`,`acseller`.`fullName` AS `Seller`,`l5`.`AgentName` AS `AgentName`,`l5`.`AuctioneerName` AS `AuctioneerName`,`l5`.`breed` AS `breed`,`l5`.`quantity` AS `quantity`,`l5`.`lotSellingPrice` AS `lotSellingPrice`,`l5`.`passedIn` AS `passedIn` from ((select `l4`.`auctionId` AS `auctionId`,`l4`.`lotNumber` AS `lotNumber`,`l4`.`bclientID` AS `bclientID`,`l4`.`sclientID` AS `sclientID`,`l4`.`AgentName` AS `AgentName`,`l4`.`AuctioneerName` AS `AuctioneerName`,`l4`.`breed` AS `breed`,`l4`.`quantity` AS `quantity`,`l4`.`lotSellingPrice` AS `lotSellingPrice`,`l4`.`passedIn` AS `passedIn`,`acbuyer`.`fullName` AS `Buyer` from ((select `l3`.`auctionId` AS `auctionId`,`l3`.`lotNumber` AS `lotNumber`,`l3`.`seller` AS `seller`,`l3`.`buyer` AS `buyer`,`l3`.`AgentName` AS `AgentName`,`l3`.`AuctioneerName` AS `AuctioneerName`,`l3`.`breed` AS `breed`,`l3`.`quantity` AS `quantity`,`l3`.`lotSellingPrice` AS `lotSellingPrice`,`l3`.`passedIn` AS `passedIn`,`l3`.`bclientID` AS `bclientID`,`acs`.`clientID` AS `sclientID` from ((select `l2`.`auctionDay` AS `auctionDay`,`l2`.`auctionId` AS `auctionId`,`l2`.`lotNumber` AS `lotNumber`,`l2`.`seller` AS `seller`,`l2`.`buyer` AS `buyer`,`l2`.`AgentName` AS `AgentName`,`l2`.`AuctioneerName` AS `AuctioneerName`,`l2`.`breed` AS `breed`,`l2`.`quantity` AS `quantity`,`l2`.`lotSellingPrice` AS `lotSellingPrice`,`l2`.`passedIn` AS `passedIn`,`aca`.`clientID` AS `bclientID` from ((select `l1`.`auctionDay` AS `auctionDay`,`l1`.`auctionId` AS `auctionId`,`l1`.`lotNumber` AS `lotNumber`,`l1`.`seller` AS `seller`,`l1`.`buyer` AS `buyer`,`l1`.`AgentName` AS `AgentName`,`sau`.`fullName` AS `AuctioneerName`,`l1`.`breed` AS `breed`,`l1`.`quantity` AS `quantity`,`l1`.`lotSellingPrice` AS `lotSellingPrice`,`l1`.`passedIn` AS `passedIn` from ((select `sl`.`auctionDay` AS `auctionDay`,`sl`.`auctionId` AS `auctionId`,`sl`.`lotNumber` AS `lotNumber`,`sl`.`seller` AS `seller`,`sl`.`buyer` AS `buyer`,`sl`.`breed` AS `breed`,`sl`.`quantity` AS `quantity`,`sl`.`agent` AS `agent`,`sag`.`fullName` AS `AgentName`,`sl`.`auctioneer` AS `auctioneer`,`sl`.`lotSellingPrice` AS `lotSellingPrice`,`sl`.`passedIn` AS `passedIn` from (`stockauction`.`sheeplot` `sl` join `stockauction`.`stockagent` `sag` on((`sag`.`id` = `sl`.`agent`)))) `l1` join `stockauction`.`stockagent` `sau` on((`sau`.`id` = `l1`.`auctioneer`)))) `l2` join `stockauction`.`auctionclientatauction` `aca` on(((`aca`.`clientNumber` = `l2`.`buyer`) and (`aca`.`auctionId` = `l2`.`auctionDay`))))) `l3` join `stockauction`.`auctionclientatauction` `acs` on(((`acs`.`clientNumber` = `l3`.`seller`) and (`acs`.`auctionId` = `l3`.`auctionDay`))))) `l4` join `stockauction`.`auctionclient` `acbuyer` on((`acbuyer`.`id` = `l4`.`bclientID`)))) `l5` join `stockauction`.`auctionclient` `acseller` on((`acseller`.`id` = `l5`.`sclientID`))) where (`l5`.`lotSellingPrice` is not null);
+
+-- ----------------------------------------------------------------------------
+-- View StockAuctionDB.vtotal
+-- ----------------------------------------------------------------------------
+USE `StockAuctionDB`;
+CREATE  OR REPLACE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `stockauction`.`vtotal` AS select `l2`.`buy` AS `buy`,`l2`.`BuyerID` AS `BuyerID`,`l2`.`Purchases` AS `Purchases`,`l2`.`sell` AS `sell`,`l2`.`SellerID` AS `SellerID`,`l2`.`Sold` AS `Sold`,`l2`.`BuyerAuctionID` AS `BuyerAuctionID`,`acas`.`clientID` AS `SellerAuctionID` from ((select `l1`.`buy` AS `buy`,`l1`.`BuyerID` AS `BuyerID`,sum(`l1`.`buyersValue`) AS `Purchases`,`l1`.`sell` AS `sell`,`l1`.`SellerID` AS `SellerID`,sum(`l1`.`sellersValue`) AS `Sold`,`acaa`.`clientID` AS `BuyerAuctionID` from ((select `clb`.`auctionDay` AS `buy`,`clb`.`buyer` AS `BuyerID`,`clb`.`lotSellingPrice` AS `buyersValue`,`cls`.`auctionDay` AS `sell`,`cls`.`seller` AS `SellerID`,`cls`.`lotSellingPrice` AS `sellersValue` from (`stockauction`.`cattlelot` `clb` join `stockauction`.`cattlelot` `cls` on(((`clb`.`auctionId` = `cls`.`auctionId`) and (`clb`.`lotNumber` = `cls`.`lotNumber`)))) union all select `slb`.`auctionDay` AS `auctionDay`,`slb`.`buyer` AS `buyer`,`slb`.`lotSellingPrice` AS `lotsellingprice`,`sls`.`auctionDay` AS `auctionDay`,`sls`.`seller` AS `seller`,`sls`.`lotSellingPrice` AS `lotSellingPrice` from (`stockauction`.`sheeplot` `slb` join `stockauction`.`sheeplot` `sls` on(((`slb`.`auctionId` = `sls`.`auctionId`) and (`slb`.`lotNumber` = `sls`.`lotNumber`))))) `l1` join `stockauction`.`auctionclientatauction` `acaa`) where ((`acaa`.`auctionId` = `l1`.`buy`) and (`acaa`.`clientNumber` = `l1`.`BuyerID`)) group by `l1`.`buy`,`l1`.`sell`,`l1`.`BuyerID`,`l1`.`SellerID`,`l1`.`buyersValue`,`l1`.`sellersValue`) `l2` join `stockauction`.`auctionclientatauction` `acas`) where ((`acas`.`auctionId` = `l2`.`sell`) and (`acas`.`clientNumber` = `l2`.`SellerID`)) group by `l2`.`buy`,`l2`.`sell`,`l2`.`BuyerID`,`l2`.`SellerID`,`l2`.`Purchases`,`l2`.`Sold`;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.Auctions
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `Auctions`(in codingNum char(5), in auctionDay date, OUT entrypnt CHAR(5), OUT ID SMALLINT, OUT AUCTDAY DATE, OUT RESULT VARCHAR(10))
+BEGIN
+select l2.Code, l2.auctionId, l2.startTime, l2.auctionDay, 
+CASE WHEN substring(l2.Code,1,1) = 'S' THEN 'Sheep' 
+	 WHEN substring(l2.Code,1,1) = 'C' THEN 'Cattle'
+	 END AS WhatAuctions_isthere
+from
+(select l1.id as Code, l1.auctionId, l1.startTime, ad.id, ad.auctionDay from
+(select ca.id, ca.auctionId, ca.startTime from cattleauction ca
+union all
+select sa.id, sa.auctionId, sa.startTime from sheepauction sa) l1, auctionday ad where ad.id = l1.auctionId) l2
+where l2.auctionId = codingNum and l2.auctionDay = auctionDay;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.BUYERVALUE
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `BUYERVALUE`(IN CLIENTNUM SMALLINT, OUT PURCHASES INT)
+BEGIN
+SELECT sum(l2.lotSellingPrice) AS BuyersValue FROM
+(select acaa.auctionId, acaa.clientNumber, l1.lotNumber, l1.lotSellingPrice, acaa.clientID from
+(select cl.auctionDay, cl.buyer, cl.lotNumber, cl.lotSellingPrice from cattlelot cl
+union distinct
+select sl.auctionDay, sl.buyer, sl.lotNumber, sl.lotSellingPrice from sheeplot sl) 
+l1, auctionclientatauction acaa where (acaa.auctionId = l1.auctionDay and acaa.clientNumber = l1.buyer)) l2
+where l2.clientNumber = CLIENTNUM and l2.lotSellingPrice is not null;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.InsertNewClients
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `InsertNewClients`(IN aID smallint, in aDay date)
+BEGIN
+insert into auctionday(id, auctionday) values(aID, aDay);
+insert into auctionclientatauction(auctionId, clientNumber, clientID)
+select * from Clients;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.SALESPROC
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `SALESPROC`(in ID char(5), in auctionID smallint, in startTime time)
+BEGIN
+INSERT INTO cattleauction(id, auctionId, startTime) Values(ID, auctionID, startTime);
+INSERT INTO cattlelot(auctionId, lotNumber, auctionDay, seller, agent, 
+						breed, sex, age, quantity, averageweight, reserve, 
+							auctioneer, buyer, sellingPricePerKg, passedIn)
+select * from cattle;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.SELLERVALUE
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `SELLERVALUE`(IN CLIENTNUM SMALLINT, OUT TOTALVALUE INT)
+BEGIN
+SELECT sum(l2.lotSellingPrice) AS SoldValue FROM
+(select acaa.auctionId, acaa.clientNumber, l1.lotNumber, l1.lotSellingPrice, acaa.clientID from
+(select cl.auctionDay, cl.seller, cl.lotNumber, cl.lotSellingPrice from cattlelot cl
+union distinct
+select sl.auctionDay, sl.seller, sl.lotNumber, sl.lotSellingPrice from sheeplot sl) 
+l1, auctionclientatauction acaa where (acaa.auctionId = l1.auctionDay and acaa.clientNumber = l1.seller)) l2
+where l2.clientNumber = CLIENTNUM and l2.lotSellingPrice is not null;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.SheepProcedure
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `SheepProcedure`(in ID char(5), in auctionID smallint, in startTime time)
+BEGIN
+INSERT INTO sheepauction(id, auctionId, startTime) Values(ID, auctionID, startTime);
+INSERT INTO sheeplot(auctionId,lotNumber,auctionDay,seller,agent,breed,sex,age,quantity,reserve,auctioneer)
+select * from sheep;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.UpdateCattleInfo
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `UpdateCattleInfo`()
+BEGIN
+SET FOREIGN_KEY_CHECKS=0;
+UPDATE cattlelot cl, CattleUpdate
+SET cl.averageWeight = CattleUpdate.averageWeight, cl.sellingPricePerKg = CattleUpdate.sellingPricePerKg, 
+cl.passedIn = CattleUpdate.passedIn, cl.buyer = CattleUpdate.buyer
+where CattleUpdate.lotNumber = cl.lotNumber AND cl.auctionId = 'C1621';
+SET FOREIGN_KEY_CHECKS=1;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Routine StockAuctionDB.UpdateSheepInfo
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `UpdateSheepInfo`()
+BEGIN
+SET FOREIGN_KEY_CHECKS=0;
+UPDATE sheeplot sl, SheepUpdate su
+SET sl.sellingPricePerHead = su.sellingPricePerHead, 
+sl.passedIn = su.passedIn, sl.buyer = su.buyer
+where su.lotNumber = sl.lotNumber AND sl.auctionId = 'S1621';
+SET FOREIGN_KEY_CHECKS=1;
+END$$
+
+DELIMITER ;
+
+-- ----------------------------------------------------------------------------
+-- Trigger StockAuctionDB.auctionclientatauction_ai
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` TRIGGER `auctionclientatauction_ai` AFTER INSERT ON `auctionclientatauction` FOR EACH ROW begin
+update auctionclient ac
+set attendance = (select count(auctionId) from auctionclientatauction where clientNumber = New.clientNumber group by clientNumber)
+where ac.id = new.clientId;
+end;
+
+-- ----------------------------------------------------------------------------
+-- Trigger StockAuctionDB.auctionclientatauction_ad
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` TRIGGER `auctionclientatauction_ad` AFTER DELETE ON `auctionclientatauction` FOR EACH ROW begin
+update auctionclient ac
+set attendance = (select count(auctionId) from auctionclientatauction where clientNumber = old.clientNumber group by clientNumber)
+where ac.id = old.clientId;
+end;
+
+-- ----------------------------------------------------------------------------
+-- Trigger StockAuctionDB.cattlelot_au
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` TRIGGER `cattlelot_au` AFTER UPDATE ON `cattlelot` FOR EACH ROW BEGIN
+	IF OLD.lotSellingPrice != NEW.lotSellingPrice then
+        UPDATE auctionclientatauction acaa
+			INNER JOIN auctionclient ac on ac.id = acaa.clientId
+			SET acaa.totalValue = (select sum(ifnull(Purchases,0)) Purchases from VTotal where BuyerID = New.buyer group by BuyerID), ac.total = acaa.totalValue
+		WHERE (acaa.auctionId = New.auctionday AND acaa.clientNumber = New.buyer);
+            
+        UPDATE auctionclientatauction acas
+			set soldValue = (select sum(ifnull(Sold,0)) Sold from VTotal where SellerID = New.seller group by SellerID)
+			WHERE(acas.auctionId = OLD.auctionday AND acas.clientNumber = OLD.seller);
+	END IF;
+END;
+
+-- ----------------------------------------------------------------------------
+-- Trigger StockAuctionDB.sheeplot_au
+-- ----------------------------------------------------------------------------
+DELIMITER $$
+USE `StockAuctionDB`$$
+CREATE DEFINER=`root`@`localhost` TRIGGER `sheeplot_au` AFTER UPDATE ON `sheeplot` FOR EACH ROW BEGIN
+	IF OLD.lotSellingPrice != NEW.lotSellingPrice then
+        UPDATE auctionclientatauction acaa
+			INNER JOIN auctionclient ac on ac.id = acaa.clientId
+			SET acaa.totalValue = (select sum(ifnull(Purchases,0)) Purchases from VTotal where BuyerID = New.buyer group by BuyerID), ac.total = acaa.totalValue
+		WHERE (acaa.auctionId = New.auctionday AND acaa.clientNumber = New.buyer);
+            
+        UPDATE auctionclientatauction acas
+			set soldValue = (select sum(ifnull(Sold,0)) Sold from VTotal where SellerID = New.seller group by SellerID)
+			WHERE(acas.auctionId = OLD.auctionday AND acas.clientNumber = OLD.seller);
+	END IF;
+END;
+SET FOREIGN_KEY_CHECKS = 1;

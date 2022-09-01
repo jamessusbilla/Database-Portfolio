@@ -1,0 +1,1 @@
+Note: when updating using the stored procedures, it returns a result of zero rows affected, however, when you open the table being updated, it actually updated the table. I don't know if this is a bug.

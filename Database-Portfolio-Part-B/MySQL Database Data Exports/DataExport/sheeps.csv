@@ -1,0 +1,522 @@
+auction ID,lot,Buyer,Seller,Agent,Auctioneer,Breed,Quantity,Selling Price,Seller Auction ID,Buyer Auction ID,PassedIn,Buyer Auction Date,Seller Auction Date,Buyer Auction Time,Seller Auction Time
+S1620,126,Meghan Dalton,Hermione Compton,Jane Jetson,Jane Jetson,Merino,80,8240.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,175,Meghan Dalton,Burch Farms,Jane Jetson,Jane Jetson,Merino,65,5590.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,199,Meghan Dalton,Illiana Maldonado,Dave Doppler,Dave Doppler,Romney,20,1780.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,240,Meghan Dalton,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,45,3960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,259,Meghan Dalton,Juliet Hayes,Homer Palin,Ralph Wigwam,Suffolk X,80,7120.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,284,Meghan Dalton,Macdonald Farms,Donald Quagley,Donald Quagley,Merino,10,980.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,313,Meghan Dalton,Cecilia Trading,Michael Krueger,Donald Quagley,Merino,50,4550.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,317,Meghan Dalton,Cecilia Trading,Michael Krueger,Donald Quagley,Romney,40,4040.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,330,Meghan Dalton,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,10,920.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,344,Meghan Dalton,Ayala Farms,David Sidebottom,Donald Quagley,Merino,65,5460.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,354,Meghan Dalton,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,75,6300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,109,Valenzuela Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,60,5400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,117,Valenzuela Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,30,2820.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,185,Valenzuela Farms,Carr Farms,Homer Palin,Micheal Angel,Merino,100,8600.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,193,Valenzuela Farms,Adena Rich,Dave Doppler,Dave Doppler,Romney,40,3880.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,207,Valenzuela Farms,Daniel Farms,Donald Quagley,Donald Quagley,Romney,60,6000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,235,Valenzuela Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,40,3400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,268,Valenzuela Farms,Carr Farms,Homer Palin,Micheal Angel,Merino,55,5555.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,271,Valenzuela Farms,Hermione Compton,Jane Jetson,Jane Jetson,Merino,55,5225.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,290,Valenzuela Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Romney,65,5395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,294,Valenzuela Farms,Burch Farms,Jane Jetson,Jane Jetson,Merino,45,4320.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,305,Valenzuela Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Romney,95,8930.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,315,Valenzuela Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,20,1700.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,337,Valenzuela Farms,Burch Farms,Jane Jetson,Jane Jetson,Romney,45,4635.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,338,Valenzuela Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,40,3560.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,124,Melissa Ruiz,Cecilia Trading,Michael Krueger,Donald Quagley,Suffolk X,70,6020.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,159,Melissa Ruiz,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,40,3880.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,162,Melissa Ruiz,Germane Blackburn,Leonardo Capris,Micheal Angel,Suffolk X,25,2100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,166,Melissa Ruiz,Gannon Trading,Jane Jetson,Jane Jetson,Merino,15,1500.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,186,Melissa Ruiz,Kylynn Trading,Michael Krueger,Donald Quagley,Merino,35,3395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,206,Melissa Ruiz,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,100,10300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,221,Melissa Ruiz,Gannon Trading,Jane Jetson,Jane Jetson,Merino,5,510.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,272,Melissa Ruiz,Hasad Harrington,Alister Byng,Alister Byng,Merino,40,3160.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,107,Roary Gillespie,Carr Farms,Homer Palin,Micheal Angel,Merino,90,8010.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,140,Roary Gillespie,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,25,2225.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,178,Roary Gillespie,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,75,7275.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,196,Roary Gillespie,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,55,5225.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,216,Roary Gillespie,Samson Pollard,Micheal Angel,Micheal Angel,Romney,15,1380.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,220,Roary Gillespie,Hermione Compton,Jane Jetson,Jane Jetson,Romney,80,7760.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,255,Roary Gillespie,Rosales Farms,Michael Krueger,Micheal Angel,Romney,85,6630.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,303,Roary Gillespie,Bright Farms,Donald Quagley,Donald Quagley,Merino,60,6180.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,341,Roary Gillespie,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,25,2250.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,349,Roary Gillespie,Samson Pollard,Micheal Angel,Micheal Angel,Merino,100,7900.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,101,Marshall Leach,Gannon Trading,Jane Jetson,Jane Jetson,Romney,70,6650.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,102,Marshall Leach,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,10,900.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,125,Marshall Leach,Burch Farms,Jane Jetson,Jane Jetson,Romney,40,3440.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,141,Marshall Leach,Illiana Maldonado,Dave Doppler,Dave Doppler,Romney,100,8100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,161,Marshall Leach,Samson Pollard,Micheal Angel,Micheal Angel,Merino,60,5880.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,198,Marshall Leach,Kylynn Trading,Michael Krueger,Donald Quagley,Romney,10,920.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,224,Marshall Leach,Rosales Farms,Michael Krueger,Micheal Angel,Merino,15,1560.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,244,Marshall Leach,Daniel Farms,Donald Quagley,Donald Quagley,Merino,10,870.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,256,Marshall Leach,Lee Chase,Dave Doppler,Dave Doppler,Romney,20,1860.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,265,Marshall Leach,Kylynn Trading,Michael Krueger,Donald Quagley,Romney,10,860.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,293,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,15,1215.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,310,Marshall Leach,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,50,4050.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,324,Marshall Leach,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,50,4000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,326,Marshall Leach,Samson Pollard,Micheal Angel,Micheal Angel,Romney,45,3690.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,340,Marshall Leach,Daniel Farms,Donald Quagley,Donald Quagley,Romney,75,7350.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,353,Marshall Leach,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,40,3320.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,116,Lee Chase,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,70,5740.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,132,Lee Chase,Adena Rich,Dave Doppler,Dave Doppler,Romney,85,7310.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,192,Lee Chase,Germane Blackburn,Leonardo Capris,Micheal Angel,Suffolk X,40,4160.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,195,Lee Chase,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,75,6075.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,226,Lee Chase,Lee Chase,Dave Doppler,Dave Doppler,Romney,15,1245.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,279,Lee Chase,Cecilia Trading,Michael Krueger,Micheal Angel,Suffolk X,95,9595.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,311,Lee Chase,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,35,3080.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,322,Lee Chase,Hermione Compton,Jane Jetson,Jane Jetson,Merino,20,1780.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,328,Lee Chase,Bright Farms,Donald Quagley,Donald Quagley,Merino,35,3150.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,118,Illiana Maldonado,Carr Farms,Homer Palin,Ralph Wigwam,Merino,70,7280.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,127,Illiana Maldonado,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,30,2610.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,135,Illiana Maldonado,Adena Rich,Dave Doppler,Dave Doppler,Romney,30,2340.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,136,Illiana Maldonado,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,95,9975.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,142,Illiana Maldonado,Daniel Farms,Donald Quagley,Donald Quagley,Romney,30,2820.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,174,Illiana Maldonado,Hermione Compton,Jane Jetson,Jane Jetson,Merino,90,8550.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,205,Illiana Maldonado,Barclay Barr,Leonardo Capris,Donald Quagley,Merino,20,1640.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,260,Illiana Maldonado,Burch Farms,Jane Jetson,Jane Jetson,Romney,60,6180.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,262,Illiana Maldonado,Aiko Swanson,Micheal Angel,Micheal Angel,Merino,75,6000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,276,Illiana Maldonado,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,65,6825.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,319,Illiana Maldonado,Kirk Cameron,Lisa Andrewson,Jane Jetson,Suffolk X,25,2550.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,361,Illiana Maldonado,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,100,8200.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,103,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Suffolk X,30,2760.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,123,Rosales Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,20,1940.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,128,Rosales Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,25,2625.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,129,Rosales Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,45,3870.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,146,Rosales Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,70,6230.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,155,Rosales Farms,Dillard Farms,Dave Doppler,Dave Doppler,Merino,20,1580.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,160,Rosales Farms,Samson Pollard,Micheal Angel,Micheal Angel,Romney,100,8100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,170,Rosales Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,25,2300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,191,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Merino,50,4550.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,209,Rosales Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,80,6960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,213,Rosales Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Merino,40,3640.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,222,Rosales Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,25,2575.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,238,Rosales Farms,Burch Farms,Jane Jetson,Jane Jetson,Merino,100,9300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,239,Rosales Farms,Carr Farms,Homer Palin,Ralph Wigwam,Suffolk X,15,1185.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,242,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Merino,45,4275.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,245,Rosales Farms,Ayala Farms,David Sidebottom,Donald Quagley,Romney,100,8400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,247,Rosales Farms,Carr Farms,Homer Palin,Micheal Angel,Romney,65,6500.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,257,Rosales Farms,Everett Farms,David Sidebottom,Micheal Angel,Romney,60,5700.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,263,Rosales Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,50,4300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,285,Rosales Farms,Dillard Farms,Dave Doppler,Dave Doppler,Romney,85,6715.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,286,Rosales Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,65,6630.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,287,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Romney,80,6960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,291,Rosales Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,45,4410.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,297,Rosales Farms,Rosales Farms,Michael Krueger,Micheal Angel,Romney,20,1800.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,301,Rosales Farms,Barclay Barr,Leonardo Capris,Micheal Angel,Merino,35,3570.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,302,Rosales Farms,Gannon Trading,Jane Jetson,Jane Jetson,Merino,20,1620.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,332,Rosales Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,5,450.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,351,Rosales Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,25,2175.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,352,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Merino,40,3720.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,359,Rosales Farms,Hasad Harrington,Alister Byng,Alister Byng,Merino,40,3640.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,112,Camden Hatfield,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,25,2025.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,113,Camden Hatfield,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,35,3640.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,131,Camden Hatfield,Adena Rich,Dave Doppler,Dave Doppler,Romney,45,3690.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,147,Camden Hatfield,Everett Farms,David Sidebottom,Micheal Angel,Merino,30,2430.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,148,Camden Hatfield,Hardin Farms,Homer Palin,Ralph Wigwam,Romney,10,810.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,154,Camden Hatfield,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,5,420.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,158,Camden Hatfield,Hasad Harrington,Alister Byng,Alister Byng,Romney,15,1500.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,208,Camden Hatfield,Everett Farms,David Sidebottom,Micheal Angel,Romney,45,4365.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,217,Camden Hatfield,Gannon Trading,Jane Jetson,Jane Jetson,Romney,80,6560.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,230,Camden Hatfield,Adena Rich,Dave Doppler,Dave Doppler,Romney,75,6075.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,249,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,15,1455.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,275,Camden Hatfield,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,30,2430.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,327,Camden Hatfield,Ayala Farms,David Sidebottom,Donald Quagley,Romney,85,8840.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,346,Camden Hatfield,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,15,1335.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,362,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,65,5070.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,363,Camden Hatfield,Hermione Compton,Jane Jetson,Jane Jetson,Merino,65,5720.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,134,Nola Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Suffolk X,60,4740.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,150,Nola Trading,Daniel Farms,Donald Quagley,Donald Quagley,Romney,55,5500.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,168,Nola Trading,Ayala Farms,David Sidebottom,Donald Quagley,Romney,45,3645.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,171,Nola Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,50,3900.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,183,Nola Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,25,1975.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,187,Nola Trading,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,10,910.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,219,Nola Trading,Hermione Compton,Jane Jetson,Jane Jetson,Suffolk X,20,2040.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,228,Nola Trading,Samson Pollard,Micheal Angel,Micheal Angel,Merino,35,2940.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,236,Nola Trading,Hermione Compton,Jane Jetson,Jane Jetson,Romney,25,2100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,283,Nola Trading,Adena Rich,Dave Doppler,Dave Doppler,Merino,15,1545.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,292,Nola Trading,Barclay Barr,Leonardo Capris,Donald Quagley,Merino,75,6600.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,306,Nola Trading,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,85,7395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,329,Nola Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Suffolk X,30,3000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,163,Vernon Mcgee,Lee Chase,Dave Doppler,Dave Doppler,Romney,80,7200.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,169,Vernon Mcgee,Aiko Swanson,Micheal Angel,Micheal Angel,Romney,20,1760.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,181,Vernon Mcgee,Carr Farms,Homer Palin,Micheal Angel,Merino,15,1545.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,201,Vernon Mcgee,Ayala Farms,David Sidebottom,Donald Quagley,Suffolk X,10,940.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,261,Vernon Mcgee,Bright Farms,Donald Quagley,Donald Quagley,Merino,50,5100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,318,Vernon Mcgee,Rosales Farms,Michael Krueger,Micheal Angel,Merino,20,1580.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,320,Vernon Mcgee,Aiko Swanson,Micheal Angel,Micheal Angel,Romney,35,3325.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,342,Vernon Mcgee,Hermione Compton,Jane Jetson,Jane Jetson,Merino,35,2870.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,104,Bianca Foster,Burch Farms,Jane Jetson,Jane Jetson,Romney,85,8245.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,106,Bianca Foster,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,55,5115.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,108,Bianca Foster,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,15,1380.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,110,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Romney,10,840.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,114,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,60,6240.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,151,Bianca Foster,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,25,2175.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,164,Bianca Foster,Kirk Cameron,Lisa Andrewson,Jane Jetson,Merino,40,3840.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,176,Bianca Foster,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,35,3045.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,180,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Romney,60,5400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,182,Bianca Foster,Burch Farms,Jane Jetson,Jane Jetson,Suffolk X,45,3510.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,184,Bianca Foster,Everett Farms,David Sidebottom,Micheal Angel,Merino,70,7210.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,215,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,20,1880.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,218,Bianca Foster,Adena Rich,Dave Doppler,Dave Doppler,Merino,10,910.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,246,Bianca Foster,Hermione Compton,Jane Jetson,Jane Jetson,Romney,100,7800.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,258,Bianca Foster,Kirk Cameron,Lisa Andrewson,Jane Jetson,Merino,20,1620.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,295,Bianca Foster,Adena Rich,Dave Doppler,Dave Doppler,Romney,45,4455.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,321,Bianca Foster,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,45,4320.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,333,Bianca Foster,Dillard Farms,Dave Doppler,Dave Doppler,Merino,50,4900.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,130,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Romney,15,1305.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,138,Jocelyn Dickson,Rosales Farms,Michael Krueger,Micheal Angel,Merino,40,3120.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,177,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,5,490.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,203,Jocelyn Dickson,Lee Chase,Dave Doppler,Dave Doppler,Merino,40,3240.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,204,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,75,7575.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,210,Jocelyn Dickson,Gannon Trading,Jane Jetson,Jane Jetson,Suffolk X,95,7885.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,223,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Merino,15,1395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,227,Jocelyn Dickson,Ayala Farms,David Sidebottom,Donald Quagley,Romney,20,1700.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,231,Jocelyn Dickson,Samson Pollard,Micheal Angel,Micheal Angel,Merino,50,4950.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,233,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,10,1010.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,237,Jocelyn Dickson,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,30,2910.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,253,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,25,2450.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,266,Jocelyn Dickson,Dillard Farms,Dave Doppler,Dave Doppler,Romney,20,1660.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,267,Jocelyn Dickson,Bright Farms,Donald Quagley,Donald Quagley,Romney,10,830.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,316,Jocelyn Dickson,Hermione Compton,Jane Jetson,Jane Jetson,Romney,100,8400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,334,Jocelyn Dickson,Everett Farms,David Sidebottom,Micheal Angel,Merino,35,3045.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,347,Jocelyn Dickson,Burch Farms,Jane Jetson,Jane Jetson,Merino,20,1980.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,357,Jocelyn Dickson,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,50,5250.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,360,Jocelyn Dickson,Bright Farms,Donald Quagley,Donald Quagley,Merino,25,2000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,173,Marks Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,70,6300.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,189,Marks Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,45,3915.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,200,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Merino,15,1170.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,232,Marks Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,90,8550.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,252,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Merino,75,7650.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,304,Marks Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Merino,25,2100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,312,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Merino,15,1275.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,314,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Merino,35,2730.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,331,Marks Farms,Ayala Farms,David Sidebottom,Donald Quagley,Merino,70,7280.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,343,Marks Farms,Burch Farms,Jane Jetson,Jane Jetson,Merino,20,1820.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,111,Bright Farms,Rosales Farms,Michael Krueger,Micheal Angel,Merino,85,7650.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,144,Bright Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Suffolk X,100,10100.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,190,Bright Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,10,960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,194,Bright Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,70,6090.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,211,Bright Farms,Everett Farms,David Sidebottom,Micheal Angel,Romney,100,9400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,212,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,95,8740.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,251,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,75,7275.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,264,Bright Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,20,2040.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,278,Bright Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,15,1275.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,358,Bright Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Merino,10,840.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,133,Autumn Mooney,Samson Pollard,Micheal Angel,Micheal Angel,Merino,75,6225.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,153,Autumn Mooney,Carr Farms,Homer Palin,Ralph Wigwam,Romney,10,800.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,172,Autumn Mooney,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Suffolk X,20,1620.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,202,Autumn Mooney,Ayala Farms,David Sidebottom,Donald Quagley,Romney,45,3870.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,254,Autumn Mooney,Dillard Farms,Dave Doppler,Dave Doppler,Merino,35,2730.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,269,Autumn Mooney,Carr Farms,Homer Palin,Micheal Angel,Suffolk X,90,7920.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,274,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,5,505.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,298,Autumn Mooney,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,45,3735.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,300,Autumn Mooney,Burch Farms,Jane Jetson,Jane Jetson,Romney,35,3360.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,309,Autumn Mooney,Hasad Harrington,Alister Byng,Alister Byng,Suffolk X,95,9120.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,345,Autumn Mooney,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,45,4410.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,355,Autumn Mooney,Rosales Farms,Michael Krueger,Micheal Angel,Merino,50,4800.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,115,Macdonald Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,40,3720.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,165,Macdonald Farms,Everett Farms,David Sidebottom,Micheal Angel,Merino,25,2375.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,179,Macdonald Farms,Rosales Farms,Michael Krueger,Micheal Angel,Romney,35,3640.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,214,Macdonald Farms,Bright Farms,Donald Quagley,Donald Quagley,Merino,60,4740.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,225,Macdonald Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,5,445.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,234,Macdonald Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,45,3960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,241,Macdonald Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,35,3395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,281,Macdonald Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,50,4700.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,296,Macdonald Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Romney,75,6150.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,335,Macdonald Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,85,7395.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,348,Macdonald Farms,Lee Chase,Dave Doppler,Dave Doppler,Romney,20,1660.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,350,Macdonald Farms,Gannon Trading,Jane Jetson,Jane Jetson,Suffolk X,80,6400.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,105,Dillard Farms,Dillard Farms,Dave Doppler,Dave Doppler,Merino,40,3240.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,119,Dillard Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Merino,55,4455.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,121,Dillard Farms,Bright Farms,Donald Quagley,Donald Quagley,Romney,90,7110.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,149,Dillard Farms,Daniel Farms,Donald Quagley,Donald Quagley,Romney,45,4365.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,229,Dillard Farms,Carr Farms,Homer Palin,Micheal Angel,Suffolk X,10,780.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,270,Dillard Farms,Barclay Barr,Leonardo Capris,Donald Quagley,Romney,65,5460.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,273,Dillard Farms,Samson Pollard,Micheal Angel,Micheal Angel,Merino,90,7650.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,282,Dillard Farms,Aiko Swanson,Micheal Angel,Micheal Angel,Merino,10,810.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,308,Dillard Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,45,4500.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,336,Dillard Farms,Lee Chase,Dave Doppler,Dave Doppler,Romney,40,4040.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,339,Dillard Farms,Lee Chase,Dave Doppler,Dave Doppler,Suffolk X,35,2975.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,120,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Romney,35,2905.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,137,Anastasia Trading,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,20,1960.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,143,Anastasia Trading,Kirk Cameron,Lisa Andrewson,Jane Jetson,Merino,10,1000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,152,Anastasia Trading,Dillard Farms,Dave Doppler,Dave Doppler,Suffolk X,45,3510.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,167,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,45,3825.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,188,Anastasia Trading,Burch Farms,Jane Jetson,Jane Jetson,Romney,55,5170.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,243,Anastasia Trading,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,25,2350.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,248,Anastasia Trading,Everett Farms,David Sidebottom,Micheal Angel,Merino,5,455.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,280,Anastasia Trading,Carr Farms,Homer Palin,Micheal Angel,Romney,20,2000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,288,Anastasia Trading,Hasad Harrington,Alister Byng,Alister Byng,Merino,35,3360.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,289,Anastasia Trading,Bright Farms,Donald Quagley,Donald Quagley,Suffolk X,25,2150.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,299,Anastasia Trading,Samson Pollard,Micheal Angel,Micheal Angel,Suffolk X,10,870.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,307,Anastasia Trading,Carr Farms,Homer Palin,Ralph Wigwam,Romney,10,910.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,325,Anastasia Trading,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Romney,20,1680.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,122,Ina Trading,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,95,8265.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,145,Ina Trading,Juliet Hayes,Homer Palin,Micheal Angel,Romney,35,3255.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,157,Ina Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,70,6370.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,197,Ina Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,65,6565.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,250,Ina Trading,Macdonald Farms,Donald Quagley,Donald Quagley,Romney,65,5785.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,323,Ina Trading,Carr Farms,Homer Palin,Ralph Wigwam,Merino,20,1620.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1620,356,Ina Trading,Hermione Compton,Jane Jetson,Jane Jetson,Romney,40,4000.00,1620,1620,"N,2019-08-10,2019-08-10,11:30:00,11:30:00
+S1621,112,Camden Hatfield,Burch Farms,Jane Jetson,Jane Jetson,Romney,27,2241.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,116,Camden Hatfield,Adena Rich,Dave Doppler,Dave Doppler,Merino,99,11682.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,136,Camden Hatfield,Lee Chase,Dave Doppler,Dave Doppler,Merino,86,8170.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,155,Camden Hatfield,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,18,1980.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,193,Camden Hatfield,Rosales Farms,Michael Krueger,Micheal Angel,Suffolk X,48,4800.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,218,Camden Hatfield,Cecilia Trading,Michael Krueger,Donald Quagley,Romney,45,3780.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,239,Camden Hatfield,Bright Farms,Donald Quagley,Donald Quagley,Romney,91,9464.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,336,Camden Hatfield,Carr Farms,Homer Palin,Micheal Angel,Romney,73,8249.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,362,Camden Hatfield,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,64,6080.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,215,Nola Trading,Everett Farms,David Sidebottom,Micheal Angel,Romney,44,3828.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,221,Nola Trading,Carr Farms,Homer Palin,Ralph Wigwam,Romney,65,6110.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,230,Nola Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,40,4440.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,268,Nola Trading,Daniel Farms,Donald Quagley,Donald Quagley,Romney,51,5202.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,278,Nola Trading,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,82,7216.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,284,Nola Trading,Hasad Harrington,Alister Byng,Alister Byng,Merino,3,258.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,312,Nola Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,46,4370.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,319,Nola Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,66,5808.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,338,Nola Trading,Carr Farms,Homer Palin,Micheal Angel,Romney,37,3219.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,355,Nola Trading,Lee Chase,Dave Doppler,Dave Doppler,Romney,85,7735.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,360,Nola Trading,Aiko Swanson,Micheal Angel,Micheal Angel,Romney,87,9831.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,125,Vernon Mcgee,Rosales Farms,Michael Krueger,Micheal Angel,Merino,44,5104.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,186,Vernon Mcgee,Kylynn Trading,Michael Krueger,Donald Quagley,Merino,43,4859.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,222,Vernon Mcgee,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,49,5488.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,281,Vernon Mcgee,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,27,2268.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,282,Vernon Mcgee,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,82,7544.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,300,Vernon Mcgee,Ayala Farms,David Sidebottom,Donald Quagley,Merino,94,8366.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,322,Vernon Mcgee,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,27,2997.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,351,Vernon Mcgee,Gannon Trading,Jane Jetson,Jane Jetson,Romney,57,5643.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,357,Vernon Mcgee,Samson Pollard,Micheal Angel,Micheal Angel,Romney,60,4860.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,363,Vernon Mcgee,Barclay Barr,Leonardo Capris,Donald Quagley,Romney,40,3600.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,102,Bianca Foster,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,33,3432.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,121,Bianca Foster,Hermione Compton,Jane Jetson,Jane Jetson,Merino,62,6200.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,131,Bianca Foster,Hermione Compton,Jane Jetson,Jane Jetson,Suffolk X,99,9306.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,137,Bianca Foster,Carr Farms,Homer Palin,Micheal Angel,Romney,34,3808.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,174,Bianca Foster,Lee Chase,Dave Doppler,Dave Doppler,Suffolk X,122,12688.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,207,Bianca Foster,Hasad Harrington,Alister Byng,Alister Byng,Romney,29,2726.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,240,Bianca Foster,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,47,4606.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,265,Bianca Foster,Carr Farms,Homer Palin,Ralph Wigwam,Romney,47,4371.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,290,Bianca Foster,Samson Pollard,Micheal Angel,Micheal Angel,Suffolk X,40,4080.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,307,Bianca Foster,Adena Rich,Dave Doppler,Dave Doppler,Romney,116,11484.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,308,Bianca Foster,Bright Farms,Donald Quagley,Donald Quagley,Merino,92,8464.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,132,Jocelyn Dickson,Everett Farms,David Sidebottom,Micheal Angel,Merino,66,7788.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,138,Jocelyn Dickson,Brody Stanley,Bart O'Keefe,Jane Jetson,Merino,71,6035.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,153,Jocelyn Dickson,Ayala Farms,David Sidebottom,Donald Quagley,Merino,112,11536.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,183,Jocelyn Dickson,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,11,1210.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,217,Jocelyn Dickson,Hermione Compton,Jane Jetson,Jane Jetson,Merino,21,2016.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,252,Jocelyn Dickson,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,78,7488.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,323,Jocelyn Dickson,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,15,1290.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,337,Jocelyn Dickson,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,75,8325.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,140,Wang Riley,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,61,5307.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,149,Wang Riley,Kylynn Trading,Michael Krueger,Donald Quagley,Merino,22,2486.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,167,Wang Riley,Burch Farms,Jane Jetson,Jane Jetson,Merino,42,4620.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,180,Wang Riley,Rosales Farms,Michael Krueger,Micheal Angel,Merino,25,2800.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,210,Wang Riley,Carr Farms,Homer Palin,Micheal Angel,Romney,127,14732.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,223,Wang Riley,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,8,928.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,243,Wang Riley,Daniel Farms,Donald Quagley,Donald Quagley,Romney,2,228.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,248,Wang Riley,Hasad Harrington,Alister Byng,Alister Byng,Merino,29,2407.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,275,Wang Riley,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,84,7140.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,103,Adena Rich,Carr Farms,Homer Palin,Micheal Angel,Merino,16,1760.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,196,Adena Rich,Samson Pollard,Micheal Angel,Micheal Angel,Romney,25,2100.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,235,Adena Rich,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,83,7553.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,263,Adena Rich,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,30,3480.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,280,Adena Rich,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,52,5616.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,299,Adena Rich,Hermione Compton,Jane Jetson,Jane Jetson,Romney,89,10680.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,106,Brody Stanley,Juliet Hayes,Homer Palin,Micheal Angel,Merino,53,4346.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,161,Brody Stanley,Everett Farms,David Sidebottom,Micheal Angel,Merino,18,2070.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,178,Brody Stanley,Kirk Cameron,Lisa Andrewson,Jane Jetson,Merino,55,5555.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,197,Brody Stanley,Illiana Maldonado,Dave Doppler,Dave Doppler,Suffolk X,44,4664.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,261,Brody Stanley,Samson Pollard,Micheal Angel,Micheal Angel,Merino,46,5060.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,294,Brody Stanley,Dillard Farms,Dave Doppler,Dave Doppler,Merino,21,2037.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,314,Brody Stanley,Rosales Farms,Michael Krueger,Micheal Angel,Romney,33,3399.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,128,Zephania Houston,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,17,1989.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,164,Zephania Houston,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Romney,16,1296.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,170,Zephania Houston,Bright Farms,Donald Quagley,Donald Quagley,Merino,61,5917.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,200,Zephania Houston,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,4,440.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,232,Zephania Houston,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,60,4980.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,277,Zephania Houston,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,40,3680.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,292,Zephania Houston,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,64,6528.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,297,Zephania Houston,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,94,9212.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,332,Zephania Houston,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,94,8178.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,333,Zephania Houston,Barclay Barr,Leonardo Capris,Donald Quagley,Merino,38,4370.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,344,Zephania Houston,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,35,4095.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,109,Marks Farms,Gannon Trading,Jane Jetson,Jane Jetson,Romney,109,8938.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,135,Marks Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,66,7524.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,151,Marks Farms,Dillard Farms,Dave Doppler,Dave Doppler,Romney,90,8550.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,157,Marks Farms,Juliet Hayes,Homer Palin,Ralph Wigwam,Romney,30,2430.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,171,Marks Farms,Carr Farms,Homer Palin,Micheal Angel,Merino,62,5642.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,195,Marks Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,65,5460.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,237,Marks Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,48,5232.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,304,Marks Farms,Rosales Farms,Michael Krueger,Micheal Angel,Romney,97,9894.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,310,Marks Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Romney,64,5952.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,329,Marks Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,83,9379.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,162,Bright Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,62,5084.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,168,Bright Farms,Ayala Farms,David Sidebottom,Donald Quagley,Merino,8,736.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,182,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,32,2688.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,212,Bright Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Merino,98,11760.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,220,Bright Farms,Burch Farms,Jane Jetson,Jane Jetson,Merino,93,9021.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,234,Bright Farms,Bright Farms,Donald Quagley,Donald Quagley,Merino,1,104.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,272,Bright Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,55,5445.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,289,Bright Farms,Hermione Compton,Jane Jetson,Jane Jetson,Suffolk X,83,9130.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,325,Bright Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,70,6580.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,346,Bright Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,21,2247.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,356,Bright Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,76,8056.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,359,Bright Farms,Gannon Trading,Jane Jetson,Jane Jetson,Suffolk X,11,1320.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,361,Bright Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Suffolk X,60,6360.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,141,Autumn Mooney,Hasad Harrington,Alister Byng,Alister Byng,Romney,14,1666.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,165,Autumn Mooney,Samson Pollard,Micheal Angel,Micheal Angel,Merino,109,9047.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,257,Autumn Mooney,Hasad Harrington,Alister Byng,Alister Byng,Romney,32,3456.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,273,Autumn Mooney,Samson Pollard,Micheal Angel,Micheal Angel,Merino,44,3652.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,301,Autumn Mooney,Hermione Compton,Jane Jetson,Jane Jetson,Merino,53,4505.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,343,Autumn Mooney,Germane Blackburn,Leonardo Capris,Micheal Angel,Romney,100,8600.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,350,Autumn Mooney,Dillard Farms,Dave Doppler,Dave Doppler,Merino,51,6069.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,352,Autumn Mooney,Adena Rich,Dave Doppler,Dave Doppler,Romney,9,972.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,226,Hasad Harrington,Samson Pollard,Micheal Angel,Micheal Angel,Merino,21,2247.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,244,Hasad Harrington,Daniel Farms,Donald Quagley,Donald Quagley,Merino,114,12198.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,271,Hasad Harrington,Rosales Farms,Michael Krueger,Micheal Angel,Suffolk X,4,328.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,219,Macdonald Farms,Brody Stanley,Bart O'Keefe,Jane Jetson,Merino,35,3255.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,229,Macdonald Farms,Hermione Compton,Jane Jetson,Jane Jetson,Merino,21,2352.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,259,Macdonald Farms,Everett Farms,David Sidebottom,Micheal Angel,Merino,31,2976.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,260,Macdonald Farms,Adena Rich,Dave Doppler,Dave Doppler,Romney,51,4437.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,316,Macdonald Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,65,7345.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,317,Macdonald Farms,Camden Hatfield,Lisa Andrewson,Jane Jetson,Romney,93,8463.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,327,Macdonald Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,91,7371.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,340,Macdonald Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,20,2400.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,349,Macdonald Farms,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,15,1500.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,118,Dillard Farms,Burch Farms,Jane Jetson,Jane Jetson,Merino,92,9200.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,126,Dillard Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,30,2490.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,166,Dillard Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Romney,73,8322.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,176,Dillard Farms,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Romney,54,5022.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,181,Dillard Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,27,2916.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,191,Dillard Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Romney,86,9460.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,192,Dillard Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,19,1957.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,253,Dillard Farms,Everett Farms,David Sidebottom,Micheal Angel,Romney,67,7236.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,258,Dillard Farms,Illiana Maldonado,Dave Doppler,Dave Doppler,Romney,103,10403.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,288,Dillard Farms,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,114,10716.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,315,Dillard Farms,Carr Farms,Homer Palin,Ralph Wigwam,Romney,54,5130.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,101,Anastasia Trading,Gannon Trading,Jane Jetson,Jane Jetson,Romney,10,1140.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,120,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Merino,33,3531.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,159,Anastasia Trading,Lee Chase,Dave Doppler,Dave Doppler,Merino,96,11040.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,189,Anastasia Trading,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,61,7320.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,204,Anastasia Trading,Burch Farms,Jane Jetson,Jane Jetson,Merino,30,2730.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,213,Anastasia Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,123,14391.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,245,Anastasia Trading,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,20,1740.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,254,Anastasia Trading,Samson Pollard,Micheal Angel,Micheal Angel,Merino,70,7840.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,296,Anastasia Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,8,696.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,313,Anastasia Trading,Ayala Farms,David Sidebottom,Donald Quagley,Merino,60,5700.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,328,Anastasia Trading,Illiana Maldonado,Dave Doppler,Dave Doppler,Suffolk X,19,1995.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,330,Anastasia Trading,Burch Farms,Jane Jetson,Jane Jetson,Merino,43,4386.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,331,Anastasia Trading,Carr Farms,Homer Palin,Micheal Angel,Merino,74,8140.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,335,Anastasia Trading,Cecilia Trading,Michael Krueger,Micheal Angel,Suffolk X,4,364.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,134,Ina Trading,Lee Chase,Dave Doppler,Dave Doppler,Romney,108,10368.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,146,Ina Trading,Rosales Farms,Michael Krueger,Micheal Angel,Romney,32,3328.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,152,Ina Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,6,492.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,173,Ina Trading,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,11,1166.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,224,Ina Trading,Rosales Farms,Michael Krueger,Micheal Angel,Romney,37,4403.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,241,Ina Trading,Cecilia Trading,Michael Krueger,Donald Quagley,Merino,70,7070.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,264,Ina Trading,Ayala Farms,David Sidebottom,Donald Quagley,Romney,43,4300.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,216,Hardin Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,71,7668.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,255,Hardin Farms,Kylynn Trading,Michael Krueger,Donald Quagley,Romney,87,9309.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,291,Hardin Farms,Bright Farms,Donald Quagley,Donald Quagley,Merino,91,10374.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,334,Hardin Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,74,6586.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,348,Hardin Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,10,950.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,105,Germane Blackburn,Aiko Swanson,Micheal Angel,Micheal Angel,Romney,18,2142.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,108,Germane Blackburn,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Suffolk X,46,4324.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,111,Germane Blackburn,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,78,8580.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,113,Germane Blackburn,Gannon Trading,Jane Jetson,Jane Jetson,Romney,72,5832.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,150,Germane Blackburn,Everett Farms,David Sidebottom,Micheal Angel,Romney,42,3570.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,175,Germane Blackburn,Bright Farms,Donald Quagley,Donald Quagley,Merino,81,9315.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,184,Germane Blackburn,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,23,2093.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,227,Germane Blackburn,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Suffolk X,53,5300.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,276,Germane Blackburn,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,11,1287.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,287,Germane Blackburn,Samson Pollard,Micheal Angel,Micheal Angel,Merino,44,5280.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,295,Germane Blackburn,Burch Farms,Jane Jetson,Jane Jetson,Merino,53,4505.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,320,Germane Blackburn,Adena Rich,Dave Doppler,Dave Doppler,Merino,53,5618.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,321,Germane Blackburn,Burch Farms,Jane Jetson,Jane Jetson,Merino,80,8240.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,353,Germane Blackburn,Burch Farms,Jane Jetson,Jane Jetson,Merino,49,4998.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,172,Juliet Hayes,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,75,6900.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,201,Juliet Hayes,Daniel Farms,Donald Quagley,Donald Quagley,Romney,29,2755.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,211,Fitzpatrick Farms,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,64,7232.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,242,Fitzpatrick Farms,Gannon Trading,Jane Jetson,Jane Jetson,Romney,35,3675.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,251,Fitzpatrick Farms,Macdonald Farms,Donald Quagley,Donald Quagley,Merino,62,5332.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,279,Fitzpatrick Farms,Gannon Trading,Jane Jetson,Jane Jetson,Merino,9,729.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,293,Fitzpatrick Farms,Carr Farms,Homer Palin,Micheal Angel,Romney,96,7776.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,324,Fitzpatrick Farms,Hermione Compton,Jane Jetson,Jane Jetson,Suffolk X,7,756.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,354,Fitzpatrick Farms,Cecilia Trading,Michael Krueger,Donald Quagley,Merino,80,8960.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,119,Samson Pollard,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,57,6441.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,123,Samson Pollard,Rosales Farms,Michael Krueger,Micheal Angel,Merino,38,3724.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,142,Samson Pollard,Burch Farms,Jane Jetson,Jane Jetson,Merino,62,5022.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,148,Samson Pollard,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,56,6272.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,194,Samson Pollard,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Merino,52,5200.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,238,Samson Pollard,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Suffolk X,74,6882.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,247,Samson Pollard,Barclay Barr,Leonardo Capris,Micheal Angel,Merino,41,4264.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,256,Samson Pollard,Burch Farms,Jane Jetson,Jane Jetson,Romney,26,3068.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,269,Samson Pollard,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,73,6935.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,303,Samson Pollard,Aiko Swanson,Micheal Angel,Micheal Angel,Merino,50,4200.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,309,Samson Pollard,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,33,3432.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,110,Barclay Barr,Carr Farms,Homer Palin,Ralph Wigwam,Romney,95,8360.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,115,Barclay Barr,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Romney,91,10829.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,143,Barclay Barr,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,0,0.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,145,Barclay Barr,Carr Farms,Homer Palin,Micheal Angel,Merino,58,6670.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,154,Barclay Barr,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Merino,39,4017.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,156,Barclay Barr,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,106,9434.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,206,Barclay Barr,Rosales Farms,Michael Krueger,Micheal Angel,Merino,44,4224.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,233,Barclay Barr,Gannon Trading,Jane Jetson,Jane Jetson,Merino,52,4524.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,266,Barclay Barr,Burch Farms,Jane Jetson,Jane Jetson,Merino,6,642.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,285,Barclay Barr,Dillard Farms,Dave Doppler,Dave Doppler,Romney,93,10788.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,114,Everett Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,35,3150.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,124,Everett Farms,Lee Chase,Dave Doppler,Dave Doppler,Merino,82,6724.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,199,Everett Farms,Adena Rich,Dave Doppler,Dave Doppler,Merino,32,3648.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,202,Everett Farms,Bright Farms,Donald Quagley,Donald Quagley,Merino,35,4060.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,250,Everett Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,120,11400.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,117,Chase Mccormick,Dillard Farms,Dave Doppler,Dave Doppler,Suffolk X,69,5589.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,169,Chase Mccormick,Adena Rich,Dave Doppler,Dave Doppler,Romney,53,4452.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,177,Chase Mccormick,Burch Farms,Jane Jetson,Jane Jetson,Romney,19,2204.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,179,Chase Mccormick,Samson Pollard,Micheal Angel,Micheal Angel,Merino,17,1768.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,203,Chase Mccormick,Bright Farms,Donald Quagley,Donald Quagley,Romney,89,10146.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,274,Chase Mccormick,Daniel Farms,Donald Quagley,Donald Quagley,Romney,40,4560.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,347,Chase Mccormick,Burch Farms,Jane Jetson,Jane Jetson,Suffolk X,27,2889.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,130,Suki Golden,Burch Farms,Jane Jetson,Jane Jetson,Romney,73,6497.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,139,Suki Golden,Everett Farms,David Sidebottom,Micheal Angel,Suffolk X,104,10088.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,188,Suki Golden,Hardin Farms,Homer Palin,Ralph Wigwam,Romney,51,4488.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,205,Suki Golden,Brent Ramirez,Jane Jetson,Jane Jetson,Romney,47,4700.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,214,Suki Golden,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,76,8436.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,225,Suki Golden,Adena Rich,Dave Doppler,Dave Doppler,Merino,41,3444.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,228,Suki Golden,Carr Farms,Homer Palin,Micheal Angel,Romney,64,6528.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,270,Suki Golden,Daniel Farms,Donald Quagley,Donald Quagley,Merino,27,2268.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,283,Suki Golden,Dillard Farms,Dave Doppler,Dave Doppler,Romney,20,2340.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,311,Suki Golden,Cecilia Trading,Michael Krueger,Donald Quagley,Suffolk X,122,12932.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,341,Suki Golden,Ayala Farms,David Sidebottom,Donald Quagley,Merino,68,6120.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,345,Suki Golden,Hasad Harrington,Alister Byng,Alister Byng,Merino,40,3800.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,122,Stephanie Rodriguez,Bianca Foster,Bart O'Keefe,Ralph Wigwam,Romney,27,2322.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,129,Stephanie Rodriguez,Germane Blackburn,Leonardo Capris,Micheal Angel,Merino,54,6102.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,147,Stephanie Rodriguez,Adena Rich,Dave Doppler,Dave Doppler,Merino,9,855.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,160,Stephanie Rodriguez,Cecilia Trading,Michael Krueger,Donald Quagley,Merino,63,5985.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,298,Stephanie Rodriguez,Aiko Swanson,Micheal Angel,Micheal Angel,Merino,47,5358.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,305,Stephanie Rodriguez,Juliet Hayes,Homer Palin,Ralph Wigwam,Merino,70,5880.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,306,Stephanie Rodriguez,Ayala Farms,David Sidebottom,Donald Quagley,Merino,58,5916.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,144,Lev Michael,Camden Hatfield,Lisa Andrewson,Jane Jetson,Suffolk X,21,2520.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,158,Lev Michael,Brent Ramirez,Jane Jetson,Jane Jetson,Merino,5,435.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,190,Lev Michael,Kirk Cameron,Lisa Andrewson,Jane Jetson,Romney,41,3526.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,208,Lev Michael,Barclay Barr,Leonardo Capris,Donald Quagley,Romney,99,8514.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,231,Lev Michael,Ayala Farms,David Sidebottom,Donald Quagley,Merino,65,6890.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,246,Lev Michael,Burch Farms,Jane Jetson,Jane Jetson,Merino,15,1395.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,342,Lev Michael,Dillard Farms,Dave Doppler,Dave Doppler,Romney,25,2050.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,358,Lev Michael,Hasad Harrington,Alister Byng,Alister Byng,Merino,32,3584.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,107,Madaline Trading,Camden Hatfield,Lisa Andrewson,Jane Jetson,Romney,33,3828.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,127,Madaline Trading,Juliet Hayes,Homer Palin,Ralph Wigwam,Suffolk X,42,4620.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,262,Madaline Trading,Brody Stanley,Bart O'Keefe,Jane Jetson,Romney,72,8136.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,286,Madaline Trading,Brent Ramirez,Jane Jetson,Jane Jetson,Suffolk X,52,6084.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,326,Madaline Trading,Gannon Trading,Jane Jetson,Jane Jetson,Merino,90,7290.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,133,Barrett Fuller,Everett Farms,David Sidebottom,Micheal Angel,Romney,58,5916.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,163,Barrett Fuller,Ayala Farms,David Sidebottom,Donald Quagley,Merino,34,3128.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,236,Barrett Fuller,Camden Hatfield,Lisa Andrewson,Jane Jetson,Merino,103,9167.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,267,Barrett Fuller,Brody Stanley,Bart O'Keefe,Jane Jetson,Merino,17,1938.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,318,Barrett Fuller,Carr Farms,Homer Palin,Ralph Wigwam,Merino,13,1430.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,104,Mckee Farms,Hardin Farms,Homer Palin,Ralph Wigwam,Merino,56,5768.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,185,Mckee Farms,Carr Farms,Homer Palin,Micheal Angel,Romney,37,3774.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,187,Mckee Farms,Fitzpatrick Farms,Bart O'Keefe,Jane Jetson,Romney,26,2262.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,209,Mckee Farms,Meghan Dalton,Ralph Wigwam,Ralph Wigwam,Merino,75,8475.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,249,Mckee Farms,Hermione Compton,Jane Jetson,Jane Jetson,Romney,63,7119.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00
+S1621,302,Mckee Farms,Ayala Farms,David Sidebottom,Donald Quagley,Merino,24,2256.00,1621,1621,0,2018-08-02,2018-08-02,11:00:00,11:00:00

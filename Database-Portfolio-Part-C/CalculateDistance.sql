@@ -1,0 +1,34 @@
+use zip;
+
+DROP PROCEDURE IF EXISTS CALCULATE_DISTANCE;
+DELIMITER $$
+CREATE PROCEDURE CALCULATE_DISTANCE(IN zip1 CHAR(5), IN zip2 CHAR(5), OUT location1 CHAR(5), OUT location2 CHAR(5), OUT distance float)
+BEGIN
+SELECT L1.zip AS location_zip1, L2.zip AS location_zip2, 
+   111.1111 *
+    DEGREES(ACOS(LEAST(1.0, COS(RADIANS(L1.latitude))
+         * COS(RADIANS(L2.latitude))
+         * COS(RADIANS(L1.longitude) - RADIANS(L2.longitude))
+         + SIN(RADIANS(L1.latitude))
+         * SIN(RADIANS(L2.latitude))))) AS "Distance(KM)"
+  FROM zip AS L1
+  JOIN zip AS L2 ON L1.zip != L2.zip
+ WHERE L1.zip = zip1 AND L2.zip = zip2;
+ END $$
+ DELIMITER ;
+ 
+ 
+ -- Test 1
+ CALL CALCULATE_DISTANCE('00501','00601',@ZIP1,@ZIP2,@DISTANCE);
+ 
+ -- Test 2
+ CALL CALCULATE_DISTANCE('00662','00674',@ZIP1,@ZIP2,@DISTANCE);
+ 
+ -- Test 3
+ CALL CALCULATE_DISTANCE('00601','00604',@ZIP1,@ZIP2,@DISTANCE);
+ 
+ -- Test 4
+ CALL CALCULATE_DISTANCE('00919','00601',@ZIP1,@ZIP2,@DISTANCE);
+ 
+ -- Test 5
+ CALL CALCULATE_DISTANCE('87557','00601',@ZIP1,@ZIP2,@DISTANCE);
